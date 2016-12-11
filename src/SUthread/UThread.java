@@ -2,6 +2,7 @@ package SUthread;
 
 import java.io.BufferedReader;
 import java.io.IOException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -13,7 +14,8 @@ public class UThread implements Runnable {
     public static final Object monitor = new Object();
     public static List<Thread> threads = new ArrayList<>();
     private String resource="";
-    private UCheckable checkable;
+    private UReadable checkable;
+    private UCheckable check;
 
     public static void addThread(String resource){
         threads.add(new Thread(new UThread(resource)));
@@ -27,12 +29,19 @@ public class UThread implements Runnable {
 
     public UThread(String resource){
         this.resource=resource;
-        checkable = new FileCheck(); //пока ресурс только файл
+        if(resource.matches("^http.+$")){
+            checkable = new UrlForCheck();
+        }
+        else {
+            checkable = new FileForCheck(); //пока ресурс только файл
+        }
+        check=new UniqueCheck(resource);
     }
+
     @Override
     public void run() {
         try(BufferedReader bufferedReader = checkable.open(resource)) {
-            String str=checkable.checkOnUnq(bufferedReader);
+            String str=check.checkOnUnq(bufferedReader);
             if(str!=null){
                 synchronized (monitor){
                     if(!Thread.currentThread().isInterrupted()){

@@ -3,14 +3,11 @@ package SUthread;
 import java.io.BufferedReader;
 import java.io.Closeable;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 
 /**
- * Created by raxis on 10.12.2016.
- * Интерфейс для открытия ресурсов на проверку (по уникальности хождения слов)
+ * Created by raxis on 11.12.2016.
+ * Инткрфейс для чекера
  */
-public interface UCheckable extends Closeable {
-    public BufferedReader open(String resource)throws IOException;
+public interface UCheckable {
     public String checkOnUnq(BufferedReader reader) throws IOException;
 }

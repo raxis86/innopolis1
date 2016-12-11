@@ -1,36 +1,36 @@
 package SUthread;
 
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
- * Created by raxis on 10.12.2016.
- * Класс для открытия и обработки тектового файла
+ * Created by raxis on 11.12.2016.
+ * Проверка слова на уникальность
  */
-public class FileCheck implements UCheckable{
+public class UniqueCheck implements UCheckable {
     private Map<String,String> stringMap = new HashMap<>();
-    private FileInputStream fileInputStream;
-    private InputStreamReader fileReader;
-    private String resource;
+    private BufferedReader reader;
+    private String resource="не указан";
 
-    @Override
-    public BufferedReader open(String resource) throws UnsupportedEncodingException, FileNotFoundException {
-        fileInputStream = new FileInputStream(resource);
-        fileReader = new InputStreamReader(fileInputStream,"Cp1251");
+    public UniqueCheck(){}
+
+    public UniqueCheck(String resource){
         this.resource=resource;
-        return new BufferedReader(fileReader);
     }
 
     @Override
     public String checkOnUnq(BufferedReader reader) throws IOException {
+        this.reader=reader;
         while (!Thread.currentThread().isInterrupted()){
-            /*try {
+            try {
                 Thread.sleep(1000);
             } catch (InterruptedException e) {
                 //e.printStackTrace();
                 System.out.println("was interrupted");
                 return null;
-            }*/
+            }
             String line = reader.readLine();
             if(line==null) break;
             if(line.matches("^[а-яА-ЯёЁ0-9\\d\\s\\p{Punct}]+$")){ //Проверка строки на кириллицу
@@ -46,9 +46,4 @@ public class FileCheck implements UCheckable{
         return null;
     }
 
-    @Override
-    public void close() throws IOException {
-        fileInputStream.close();
-        fileReader.close();
-    }
 }

@@ -15,9 +15,9 @@ public class Main {
         UThread.addThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test.txt");
         UThread.addThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test1.txt");
         UThread.addThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test2.txt");
+        UThread.addThread("https://www.gazeta.ru/export_news.shtml");
 
         UThread.startAllThreads();
-
 
     }
 }
