@@ -35,6 +35,10 @@ public class Main {
 
         List<Thread> threadList = new ArrayList<>();
 
+        /*for(int i=0;i<2000;i++){
+            threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test9.txt"));
+        }*/
+
         threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test.txt"));
         threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test1.txt"));
         threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test2.txt"));
@@ -44,6 +48,7 @@ public class Main {
         threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test6.txt"));
         threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test7.txt"));
         threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test8.txt"));
+        threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test9.txt"));
 
         Monitor monitor = new Monitor(threadList);
 
@@ -51,8 +56,15 @@ public class Main {
 
         while (Monitor.isAliveThreads());
 
-        Monitor.getAlarmMessages();
+        for(String s:Monitor.getAlarmMessages()){
+            System.out.println(s);
+        }
+        System.out.println("\nИнформационно:");
 
-
+        int i=0;
+        for(String s:Monitor.getMessages()){
+            i++;
+            System.out.println(i + ":" + s);
+        }
     }
 }

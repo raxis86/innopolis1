@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SUthread.FileForCheckTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-12-16T18:37:45" hostname="Raxis-pc" time="0.323">
+  <properties/>
+  <testcase name="open" classname="SUthread.FileForCheckTest" time="0.233"/>
+  <testcase name="close" classname="SUthread.FileForCheckTest" time="0.008"/>
+  <testcase name="open_with_throw_FileNotFoundException" classname="SUthread.FileForCheckTest" time="0.08"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

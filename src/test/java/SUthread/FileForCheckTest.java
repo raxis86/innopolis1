@@ -19,12 +19,12 @@ import static org.mockito.Mockito.when;
  * Модульный тест для класса FileForCheck
  */
 public class FileForCheckTest {
-    private static Logger logger = Logger.getLogger(FileForCheck.class);
+    private static Logger logger = Logger.getLogger(FileForCheckTest.class);
 
     private FileForCheck fileForCheck;
-    private static File file;
-    private static BufferedWriter bufferedWriter;
-    private static final String testText = "Ехали медведи на велосипеде";
+    private File file;
+    private BufferedWriter bufferedWriter;
+    private final String testText = "Ехали медведи на велосипеде";
 
     @Rule
     public TemporaryFolder folder= new TemporaryFolder();
@@ -54,6 +54,16 @@ public class FileForCheckTest {
     @Test
     public void open() throws Exception {
         assertEquals(testText,fileForCheck.open(file.getPath()).readLine());
+    }
+
+    /**
+     * Проверка, что метод open() кинет исключение, если по заданному пути не
+     * окажется файла
+     * @throws Exception
+     */
+    @Test(expected = FileNotFoundException.class)
+    public void open_with_throw_FileNotFoundException() throws Exception{
+        fileForCheck.open("");
     }
 
     /**

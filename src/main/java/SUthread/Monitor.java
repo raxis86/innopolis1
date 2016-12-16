@@ -29,13 +29,13 @@ public class Monitor {
         this.threads=threads;
     }
 
-    public Monitor(){
+    /*public Monitor(){
 
     }
 
     public void addThread(Thread thread){
         threads.add(thread);
-    }
+    }*/
 
 
     public void start(){
@@ -52,19 +52,16 @@ public class Monitor {
         if(!Thread.currentThread().isInterrupted()) {
             alarmMsg.add(message);
         }
+        //alarmMsg.add(message);
             interruptAll();
     }
 
-    public static void getMessages(){
-        for(String s:messages){
-            System.out.println(s);
-        }
+    public static List<String> getMessages(){
+        return messages;
     }
 
-    public static void getAlarmMessages(){
-        for(String s:alarmMsg){
-            System.out.println(s);
-        }
+    public static List<String> getAlarmMessages(){
+        return alarmMsg;
     }
 
     public static boolean isAliveThreads(){

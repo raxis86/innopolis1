@@ -48,24 +48,33 @@ public class UThread extends Thread {
                 if(bufferedReader.ready()==false)break;
                 stringList.add(bufferedReader.readLine());
             }
-            if(isInterrupted())return;
-            String nonCyr=check.checkOnRus(stringList);
-            if(nonCyr!=null){
-                logger.error(String.format("Слово не на кириллице \"%s\" в ресурсе %s", nonCyr, resource));
-                Monitor.alarm(String.format("Слово не на кириллице \"%s\" в ресурсе %s", nonCyr, resource));
-            }else
-            {
-                if(isInterrupted())return;
-                String str=check.checkOnUnq(stringList);
-                if(str!=null) {
-                    logger.error(String.format("Повтор слова \"%s\" в ресурсе %s", str, resource));
-                    Monitor.alarm(String.format("Повтор слова \"%s\" в ресурсе %s", str, resource));
-                }
-                else {
-                    logger.info(String.format("Ресурс обработан удачно %s",resource));
-                    Monitor.process(String.format("Ресурс обработан удачно %s",resource));
+            if(isInterrupted()){
+                logger.error(String.format("Обработка потока прервана %s", resource));
+            }
+            else{
+                String nonCyr=check.checkOnRus(stringList);
+                if(nonCyr!=null){
+                    logger.error(String.format("Слово не на кириллице \"%s\" в ресурсе %s", nonCyr, resource));
+                    Monitor.alarm(String.format("Слово не на кириллице \"%s\" в ресурсе %s", nonCyr, resource));
+                }else
+                {
+                    if(isInterrupted()){
+                        logger.error(String.format("Обработка потока прервана %s", resource));
+                    }
+                    else {
+                        String str=check.checkOnUnq(stringList);
+                        if(str!=null) {
+                            logger.error(String.format("Повтор слова \"%s\" в ресурсе %s", str, resource));
+                            Monitor.alarm(String.format("Повтор слова \"%s\" в ресурсе %s", str, resource));
+                        }
+                        else {
+                            logger.info(String.format("%s: Ресурс обработан удачно %s",currentThread().getName(),resource));
+                            Monitor.process(String.format("%s: Ресурс обработан удачно %s",currentThread().getName(),resource));
+                        }
+                    }
                 }
             }
+
         }catch (IOException e) {
             logger.error("Ошибка в потоке, открывающем ресурс",e);
             //Monitor.alarm(e.getMessage());

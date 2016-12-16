@@ -21,7 +21,7 @@ import static org.mockito.Mockito.*;
  * Created by raxis on 15.12.2016.
  */
 public class CheckerTest {
-    private static Logger logger = Logger.getLogger(Checker.class);
+    private static Logger logger = Logger.getLogger(CheckerTest.class);
 
     @BeforeClass
     static public void beforeClass(){
@@ -43,23 +43,29 @@ public class CheckerTest {
 
     }
 
-    //проверка на текст без повторов
+    /**
+     * Тест на обработку методом checkOnUn() текста без повторов
+     * @throws Exception
+     */
     @Test
     public void checkOnUnq() throws Exception{
         //List<String> stringList = new ArrayList<>();
-        stringList.add("ехали медведи на велосипеде.");
-        assertTrue("Ошибка! Метод должен вернуть null", checker.checkOnUnq(stringList)==null);
+        stringList.add("Ехали медведи на велосипеде.");
+        assertTrue("Error! Must return null", checker.checkOnUnq(stringList)==null);
     }
 
-    //проверка на текст с повторяющимися словами
+    /**
+     * Тест на обработку методом checkOnUn() текста с повторами слов
+     * @throws Exception
+     */
     @Test
     public void checkOnUnq_with_repeatable_words() throws Exception{
         //List<String> stringList = new ArrayList<>();
         stringList.add("ехали медведи на велосипеде ехали.");
-        assertTrue("Ошибка! Метод должен вернуть \"ехали\"", checker.checkOnUnq(stringList).equals("ехали"));
+        assertTrue("Error! Must return \"ехали\"", checker.checkOnUnq(stringList).equals("ехали"));
     }
 
-    //проверка на выброс исключения
+    //???????? ?? ?????? ??????????
     /*@Test(expected = IOException.class)
     public void checkOnUnq_ExceptionTest() throws Exception {
         BufferedReader bReader = mock(BufferedReader.class);
@@ -68,27 +74,33 @@ public class CheckerTest {
         checker.checkOnUnq(bReader);
     }*/
 
-    //проверка: текст содержит только кириллицу
+    /**
+     * Тест на обработку методом checkOnRus() текста только с кириллицей
+     * @throws Exception
+     */
     @Test
     public void checkOnRus() throws Exception{
         //List<String> stringList = new ArrayList<>();
-        stringList.add("ехали медведи на велосипеде.");
+        stringList.add("Ехали медведи на велосипеде.");
 
-        assertTrue("Ошибка! Входные данны содержат только кириллицу, метод checkOnRus должен вернуть null",
+        assertTrue("Error! Must return null",
                 checker.checkOnRus(stringList)==null);
     }
 
-    //проверка: текст содержит не только кириллицу
+    /**
+     * Тест на обработку методом checkOnRus() текста c включением не кириллических символов
+     * @throws Exception
+     */
     @Test
     public void checkOnRus_with_non_cyr_words() throws Exception{
         //List<String> stringList = new ArrayList<>();
-        stringList.add("ехали медведи на велосипеде. Stop.");
+        stringList.add("Ехали медведи на велосипеде. Stop.");
 
-        assertTrue("Ошибка! Входные данные содержат только кириллицу, метод checkOnRus должен вернуть \"Stop\"",
+        assertTrue("Error! Must return \"Stop\"",
                 checker.checkOnRus(stringList)!=null);
     }
 
-    //проверка на выброс исключения
+    //???????? ?? ?????? ??????????
     /*@Test(expected = IOException.class)
     public void checkOnRus_ExceptionTest() throws Exception {
         BufferedReader bReader = mock(BufferedReader.class);
