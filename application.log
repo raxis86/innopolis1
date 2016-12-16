@@ -1,0 +1,5 @@
+2016-12-16 15:14:51,124 [ERROR][Thread-7        ][    SUthread.UThread] - Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-16 15:14:51,127 [ERROR][Thread-2        ][    SUthread.UThread] - Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-16 15:14:51,133 [ERROR][Thread-3        ][    SUthread.UThread] - Повтор слова "по" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-16 15:14:51,138 [ERROR][Thread-0        ][    SUthread.UThread] - Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-16 15:14:51,141 [ERROR][Thread-4        ][    SUthread.UThread] - Повтор слова "вы" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test4.txt

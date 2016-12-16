@@ -8,8 +8,9 @@ import java.net.URLConnection;
 
 /**
  * Created by raxis on 11.12.2016.
+ * Класс для открытия url-ресурса
  */
-public class UrlForCheck implements UReadable {
+public class UrlForCheck implements IReadable {
     @Override
     public BufferedReader open(String resource) throws IOException {
         URL url= new URL(resource);

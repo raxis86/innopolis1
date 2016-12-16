@@ -9,7 +9,8 @@ import java.util.List;
 /**
  * Created by raxis on 10.12.2016.
  * Интерфейс для открытия ресурсов на проверку
+ * Содержит метод метод open
  */
-public interface UReadable extends Closeable {
+public interface IReadable extends Closeable {
     public BufferedReader open(String resource)throws IOException;
 }

@@ -1,0 +1,109 @@
+apply plugin: "java"
+
+compileJava {
+    options.encoding = "UTF-8"
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+    // https://mvnrepository.com/artifact/log4j/log4j
+    //compile group: 'log4j', name: 'log4j', version: '1.2.17'
+    compile "org.slf4j:slf4j-api:1.7.21"
+    //compile "org.slf4j:slf4j-simple:1.7.21"
+    compile "org.slf4j:slf4j-log4j12:1.7.21"
+    compile group: 'org.mockito', name: 'mockito-all', version: '1.9.5'
+}
+
+
+/*task hello << {
+    printf("hello")
+}
+build.dependsOn hello
+
+repositories{
+    mavenCentral()
+    mavenLocal()
+}
+
+dependencies{
+    // https://mvnrepository.com/artifact/log4j/log4j
+    compile group: 'log4j', name: 'log4j', version: '1.2.17'
+}
+
+jar {
+    def file = new File("build.num")
+    file.eachLine {
+        version = it.substring(0,4)+ (Integer.parseInt(it.split("\\.")[2])+1).toString()
+    }
+    file.write(version)
+}
+*/
+
+
+/*public class MainTest {
+    private static Map<String,String> fileMap = new HashMap<>();
+    private static List<File> fileList = new ArrayList<>();
+    public static void main(String[] args) throws FileNotFoundException {
+        getFileList("C:\\Work\\Java\\Innopolis\\SeekUniq");
+
+        try(FileReader fileReader = new FileReader("C:\\Work\\Java\\Innopolis\\SeekUniq\\dir.reestr");
+        BufferedReader bufferedReader = new BufferedReader(fileReader)) {
+            String str;
+            while (true){
+                str = bufferedReader.readLine();
+                if(str==null)break;
+                String fname = str.split(":")[0];
+                String fmodf = str.split(":")[1];
+                fileMap.put(fname,fmodf);
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
+        try(FileWriter fileChWriter = new FileWriter("C:\\Work\\Java\\Innopolis\\SeekUniq\\changelog.txt")){
+            for(File file:fileList){
+                String lastModif = String.valueOf(file.lastModified());
+                String fileName = file.getName();
+                if(fileMap.put(fileName,lastModif)==null){
+                    fileChWriter.write(file.getName() + "\n");
+                }
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
+        try(FileWriter fileWriter = new FileWriter("C:\\Work\\Java\\Innopolis\\SeekUniq\\dir.reestr")) {
+            for(File file:fileList){
+                fileWriter.write(file.getName() + ":" + file.lastModified() + "\n");
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void getFileList(String s){
+        File f = new File(s);
+
+        for(File fl:f.listFiles()){
+            if(fl.isFile()){
+                fileList.add(fl);
+            }
+            else if(fl.isDirectory()){
+                getFileList(fl.getAbsolutePath());
+            }
+        }
+    }
+}*/
+
+
+
+
+

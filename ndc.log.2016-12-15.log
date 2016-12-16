@@ -1,0 +1,106 @@
+2016-12-15 18:29:46,161 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-15 18:29:46,166 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-15 18:29:46,167 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 18:29:46,168 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-15 18:29:53,125 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-15 18:29:53,127 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-15 18:29:53,125 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 18:29:53,132 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-15 18:29:53,149 ERROR [{}] Повтор слова "вы" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-15 18:29:53,146 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-15 18:30:43,965 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-15 18:30:43,973 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-15 18:30:43,979 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-15 18:30:43,982 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 18:30:43,983 ERROR [{}] Повтор слова "по" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-15 18:30:43,988 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-15 18:30:43,997 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-15 18:30:44,002 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-15 18:30:44,005 ERROR [{}] Повтор слова "вы" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-15 18:31:08,179 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-15 18:31:08,189 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-15 18:31:08,194 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-15 18:31:08,196 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 18:31:08,203 ERROR [{}] Повтор слова "вы" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-15 18:31:08,204 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-15 18:31:08,208 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-15 18:31:08,213 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-15 18:31:08,215 ERROR [{}] Повтор слова "по" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-15 18:33:26,634 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-15 18:33:26,639 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 18:33:26,640 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-15 18:33:26,636 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-15 18:33:26,649 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-15 18:33:26,668 ERROR [{}] Повтор слова "вы" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-15 18:33:26,672 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-15 18:33:26,673 ERROR [{}] Повтор слова "по" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-15 18:33:26,713 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-15 18:38:48,877 INFO [{}] before class
+2016-12-15 18:39:03,781 INFO [{}] before class
+2016-12-15 19:04:03,778 INFO [{}] before class
+2016-12-15 19:07:46,610 INFO [{}] before class
+2016-12-15 19:14:12,492 INFO [{}] before class
+2016-12-15 19:14:29,447 INFO [{}] before class
+2016-12-15 19:15:05,233 INFO [{}] before class
+2016-12-15 19:21:05,872 INFO [{}] before class
+2016-12-15 19:21:49,587 INFO [{}] before class
+2016-12-15 19:21:59,463 INFO [{}] before class
+2016-12-15 19:22:37,685 INFO [{}] before class
+2016-12-15 19:29:49,459 INFO [{}] before class
+2016-12-15 19:29:59,676 INFO [{}] before class
+2016-12-15 19:33:56,944 INFO [{}] before class
+2016-12-15 20:10:23,035 INFO [{}] before class
+2016-12-15 20:11:33,388 INFO [{}] before class
+2016-12-15 20:14:12,680 INFO [{}] before class
+2016-12-15 20:22:25,813 INFO [{}] before class
+2016-12-15 20:40:26,097 INFO [{}] before class
+2016-12-15 20:58:52,112 INFO [{}] before class
+2016-12-15 20:59:48,561 INFO [{}] before class
+2016-12-15 22:21:05,864 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-15 22:21:05,864 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-15 22:21:05,882 ERROR [{}] Повтор слова "по" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-15 22:21:05,889 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 22:21:05,945 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-15 22:21:05,908 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-15 22:21:05,932 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-15 22:21:05,922 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-15 22:21:34,358 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 22:21:34,376 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-15 22:21:34,376 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-15 22:21:34,364 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-15 22:21:34,361 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-15 22:21:34,383 ERROR [{}] Повтор слова "вы" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-15 22:21:38,700 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 22:28:51,955 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-15 22:28:51,962 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-15 22:28:51,962 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 22:28:59,393 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 22:28:59,394 ERROR [{}] Повтор слова "по" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-15 22:28:59,401 ERROR [{}] Повтор слова "вы" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-15 22:28:59,396 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-15 22:28:59,417 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-15 22:29:31,909 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 22:29:31,917 ERROR [{}] Повтор слова "по" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-15 22:29:31,918 ERROR [{}] Повтор слова "вы" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-15 22:29:31,918 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-15 22:29:31,926 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-15 22:29:31,927 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-15 22:29:31,943 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-15 22:29:35,883 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-15 22:29:35,887 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-15 22:29:35,888 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 22:29:35,887 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-15 22:29:35,910 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-15 22:56:29,946 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-15 22:56:29,951 INFO [{}] Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-15 22:56:29,952 INFO [{}] Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-15 22:56:29,952 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 22:56:29,953 INFO [{}] Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-15 22:56:29,954 INFO [{}] Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-15 22:56:29,954 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-15 22:56:29,955 INFO [{}] Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-15 22:56:29,957 INFO [{}] Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-15 22:56:29,958 INFO [{}] Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-15 22:56:29,959 INFO [{}] Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-15 22:56:29,961 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-15 22:56:29,962 INFO [{}] Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test1.txt

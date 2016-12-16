@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SeekUniq.iml" filepath="$PROJECT_DIR$/SeekUniq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeekUniq.iml" filepath="$PROJECT_DIR$/.idea/modules/SeekUniq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeekUniq_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SeekUniq_main.iml" group="SeekUniq" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeekUniq_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SeekUniq_test.iml" group="SeekUniq" />
     </modules>
   </component>
 </project>
