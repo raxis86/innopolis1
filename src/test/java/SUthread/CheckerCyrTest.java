@@ -20,7 +20,7 @@ public class CheckerCyrTest {
 
     @BeforeClass
     static public void beforeClass(){
-        logger.info("before class");
+        logger.info("Start Test!");
 
     }
     private IChecker checker;

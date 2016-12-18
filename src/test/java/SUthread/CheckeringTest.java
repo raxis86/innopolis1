@@ -17,11 +17,11 @@ import static org.mockito.Mockito.doThrow;
  * Модульный тест для класса Checkering
  */
 public class CheckeringTest {
-    private static Logger logger = Logger.getLogger(CheckerCyrTest.class);
+    private static Logger logger = Logger.getLogger(CheckeringTest.class);
 
     @BeforeClass
     static public void beforeClass(){
-        logger.info("before class");
+        logger.info("Start test!");
 
     }
     private Checkering checkering;

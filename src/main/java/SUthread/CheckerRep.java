@@ -23,16 +23,15 @@ public class CheckerRep implements IChecker {
      */
     @Override
     public String check(List<String> stringList) {
+        logger.debug("check({})",stringList);
         for(String s:stringList){
-            if(logger.isDebugEnabled()){
-                logger.debug("checkOnUnq:s: \"" + s +"\"");
-            }
             for(int i=0;i<s.split("[^\\p{L}]+").length;i++){
                 String forPut = s.split("[^\\p{L}]+")[i].toLowerCase();
-                if(logger.isDebugEnabled()){
-                    logger.debug("checkOnUnq:forPut: \"" + forPut + "\"");
+                logger.debug("forPut={}",forPut);
+                if(stringMap.put(forPut,forPut)!=null){
+                    logger.debug("stringMap.put({},{})!=null return true",forPut,forPut);
+                    return forPut;
                 }
-                if(stringMap.put(forPut,forPut)!=null)return forPut;
             }
         }
         return null;

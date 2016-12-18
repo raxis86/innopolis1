@@ -21,6 +21,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        logger.info("main({}) started!",args);
+
         List<Thread> threadList = new ArrayList<>();
         ThreadGroup threadGroup = new ThreadGroup("Group");
 

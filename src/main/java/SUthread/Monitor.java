@@ -31,6 +31,7 @@ public class Monitor {
      * @return значение переменной alarm
      */
     public static boolean getAlarm() {
+        logger.debug("getAlarm(): return {}",alarm);
         return alarm;
     }
 
@@ -58,6 +59,7 @@ public class Monitor {
      * Метод, возвращающий список сообщений о корректной обработке
      */
     public static List<String> getMessages(){
+        logger.debug("getMessages(): return: {}",messages);
         return messages;
     }
 
@@ -65,6 +67,7 @@ public class Monitor {
      * Метод, возвращающий список сообщений о некорректной обработке
      */
     public static List<String> getAlarmMessages(){
+        logger.debug("getAlarmMessages(): return: {}",alarmMsg);
         return alarmMsg;
     }
 

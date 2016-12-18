@@ -1,5 +1,8 @@
 package SUthread;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import java.util.List;
 
 /**
@@ -8,6 +11,7 @@ import java.util.List;
  * Также имеет проверку на прерывание потока
  */
 public class Checkering {
+    private static final Logger logger = LoggerFactory.getLogger(Checkering.class);
     private IChecker checker;
     private String problemWord;
 
@@ -16,6 +20,7 @@ public class Checkering {
      * @param checker - класс, реализующий интерфейс IChecker
      */
     public Checkering(IChecker checker){
+        logger.debug("Checkering({})",checker);
         this.checker=checker;
     }
 
@@ -25,6 +30,7 @@ public class Checkering {
      * @param checker - класс, реализующий интерфейс IChecker
      */
     public void setChecker(IChecker checker){
+        logger.debug("setChecker({})",checker);
         this.checker=checker;
     }
 
@@ -34,6 +40,7 @@ public class Checkering {
      * @return - проблемное слово
      */
     public String getProblemWord(){
+        logger.debug("getProblemWord() return:{}",problemWord);
         return problemWord;
     }
 
@@ -46,10 +53,12 @@ public class Checkering {
      * @throws SUSoftInterruptException
      */
     public String check(List<String> stringList, String sourceName) throws SUSoftInterruptException {
+        logger.debug("check({},{})",stringList,sourceName);
         if(!Monitor.getAlarm()){
             problemWord=checker.check(stringList);
         }
         if(!Monitor.getAlarm()) {
+            logger.debug("check() return:",problemWord);
             return problemWord;
         }
         else {

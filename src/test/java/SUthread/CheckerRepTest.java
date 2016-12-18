@@ -20,7 +20,7 @@ public class CheckerRepTest {
 
     @BeforeClass
     static public void beforeClass(){
-        logger.info("before class");
+        logger.info("Start test!");
 
     }
     private IChecker checker;

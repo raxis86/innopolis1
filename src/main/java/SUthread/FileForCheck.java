@@ -1,6 +1,8 @@
 package SUthread;
 
-import org.apache.log4j.Logger;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import javax.annotation.Resource;
 import java.io.*;
@@ -11,7 +13,7 @@ import java.io.*;
  * помещения его в BufferedReader
  */
 public class FileForCheck implements IReadable {
-    private static final Logger logger = Logger.getLogger(FileForCheck.class);
+    private static final Logger logger = LoggerFactory.getLogger(FileForCheck.class);
 
     private FileInputStream fileInputStream;
     private InputStreamReader fileReader;
@@ -22,6 +24,7 @@ public class FileForCheck implements IReadable {
      * @param resourcePath - путь к файлу
      */
     public FileForCheck(String resourcePath){
+        logger.debug("FileForCheck({})",resourcePath);
         this.resource=resourcePath;
     }
 
@@ -33,10 +36,11 @@ public class FileForCheck implements IReadable {
      */
     @Override
     public BufferedReader open() throws UnsupportedEncodingException, FileNotFoundException {
-        logger.debug("opeb():resouce:"+resource);
+        logger.debug("open() call");
         fileInputStream = new FileInputStream(resource);
         fileReader = new InputStreamReader(fileInputStream,"Cp1251");
         bufferedReader = new BufferedReader(fileReader);
+        logger.debug("open(): return {}",bufferedReader);
         return bufferedReader;
     }
 
@@ -45,6 +49,7 @@ public class FileForCheck implements IReadable {
      */
     @Override
     public String getResourcePath() {
+        logger.debug("getResourcePath(): return {}",resource);
         return resource;
     }
 
@@ -54,6 +59,7 @@ public class FileForCheck implements IReadable {
      */
     @Override
     public void close() throws IOException {
+        logger.debug("close() call");
         fileInputStream.close();
         fileReader.close();
         bufferedReader.close();

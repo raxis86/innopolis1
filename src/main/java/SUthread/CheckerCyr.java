@@ -20,17 +20,15 @@ public class CheckerCyr implements IChecker {
      */
     @Override
     public String check(List<String> stringList) {
+        logger.debug("check({})",stringList);
         for(String s:stringList){
             if(!s.matches("^[а-яА-ЯёЁ0-9\\d\\s\\p{Punct}]+$")) {
-                if(logger.isDebugEnabled()){
-                    logger.debug("checkOnRus:s: \"" + s + "\"");
-                }
+                logger.debug("!{}.matches(\"^[а-яА-ЯёЁ0-9\\\\d\\\\s\\\\p{Punct}]+$\") return true",s);
                 for(int i=0;i<s.split("[^\\p{L}]+").length;i++) {
                     String nonCyr = s.split("[^\\p{L}]+")[i];
-                    if(logger.isDebugEnabled()){
-                        logger.debug("checkOnRus:nonCyr: \"" + s + "\"");
-                    }
+                    logger.debug("nonCyr={}",nonCyr);
                     if (!nonCyr.matches("^[а-яА-ЯёЁ]+$")) {
+                        logger.debug("!{}.matches(\"^[а-яА-ЯёЁ]+$\") return true",nonCyr);
                         return nonCyr;
                     }
                 }

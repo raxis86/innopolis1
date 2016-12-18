@@ -33,6 +33,8 @@ public class UThread extends Thread {
 
         this.sourceName = source.getResourcePath();
         this.source =source;
+
+        logger.debug("UThread({},{})",threadGroup,source);
     }
 
     /**
@@ -93,6 +95,7 @@ public class UThread extends Thread {
      * @throws SUSoftInterruptException - выкидывается, если поток прерван
      */
     private List<String> prepareStringListFromBufferReader(BufferedReader bufferedReader) throws IOException, SUSoftInterruptException {
+        logger.debug("prepareStringListFromBufferReader({})",bufferedReader);
         List<String> stringList = new ArrayList<>();
         while (!Monitor.getAlarm()){
             if(bufferedReader.ready()==false)break;
@@ -101,6 +104,7 @@ public class UThread extends Thread {
         if(Monitor.getAlarm()){
             throw new SUSoftInterruptException(String.format("Обработка ресурса прервана: %s", sourceName));
         }
+        logger.debug("prepareStringListFromBufferReader(): return: {}",stringList);
         return stringList;
     }
 
