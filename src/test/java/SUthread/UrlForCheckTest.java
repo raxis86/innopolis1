@@ -27,6 +27,7 @@ import static org.mockito.Mockito.when;
 /**
  * Created by raxis on 16.12.2016.
  */
+@Deprecated
 public class UrlForCheckTest {
     private static Logger logger = Logger.getLogger(UrlForCheckTest.class);
 
@@ -46,7 +47,7 @@ public class UrlForCheckTest {
 
     @Before
     public void before() throws Exception {
-        this.urlForCheck = new UrlForCheck();
+        //this.urlForCheck = new UrlForCheck();
         file = folder.newFile("myfile.txt");
         this.bufferedWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file)));
         bufferedWriter.write(testText);

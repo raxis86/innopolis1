@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SUthread.CheckerTest" tests="4" skipped="0" failures="3" errors="0" timestamp="2016-12-16T18:37:45" hostname="Raxis-pc" time="0.016">
+<testsuite name="SUthread.CheckerTest" tests="4" skipped="0" failures="3" errors="0" timestamp="2016-12-16T18:50:41" hostname="Raxis-pc" time="0.018">
   <properties/>
-  <testcase name="checkOnRus" classname="SUthread.CheckerTest" time="0.011">
-    <failure message="java.lang.AssertionError: РћС€РёР±РєР°! Р’С…РѕРґРЅС‹Рµ РґР°РЅРЅС‹ СЃРѕРґРµСЂР¶Р°С‚ С‚РѕР»СЊРєРѕ РєРёСЂРёР»Р»РёС†Сѓ, РјРµС‚РѕРґ checkOnRus РґРѕР»Р¶РµРЅ РІРµСЂРЅСѓС‚СЊ null" type="java.lang.AssertionError">java.lang.AssertionError: РћС€РёР±РєР°! Р’С…РѕРґРЅС‹Рµ РґР°РЅРЅС‹ СЃРѕРґРµСЂР¶Р°С‚ С‚РѕР»СЊРєРѕ РєРёСЂРёР»Р»РёС†Сѓ, РјРµС‚РѕРґ checkOnRus РґРѕР»Р¶РµРЅ РІРµСЂРЅСѓС‚СЊ null
+  <testcase name="checkOnRus" classname="SUthread.CheckerTest" time="0.013">
+    <failure message="java.lang.AssertionError: Error! Must return null" type="java.lang.AssertionError">java.lang.AssertionError: Error! Must return null
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.assertTrue(Assert.java:41)
-	at SUthread.CheckerTest.checkOnRus(CheckerTest.java:77)
+	at SUthread.CheckerTest.checkOnRus(CheckerTest.java:86)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -55,10 +55,10 @@
 </failure>
   </testcase>
   <testcase name="checkOnUnq" classname="SUthread.CheckerTest" time="0.001">
-    <failure message="java.lang.AssertionError: РћС€РёР±РєР°! РњРµС‚РѕРґ РґРѕР»Р¶РµРЅ РІРµСЂРЅСѓС‚СЊ null" type="java.lang.AssertionError">java.lang.AssertionError: РћС€РёР±РєР°! РњРµС‚РѕРґ РґРѕР»Р¶РµРЅ РІРµСЂРЅСѓС‚СЊ null
+    <failure message="java.lang.AssertionError: Error! Must return null" type="java.lang.AssertionError">java.lang.AssertionError: Error! Must return null
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.assertTrue(Assert.java:41)
-	at SUthread.CheckerTest.checkOnUnq(CheckerTest.java:51)
+	at SUthread.CheckerTest.checkOnUnq(CheckerTest.java:54)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -107,11 +107,11 @@
 	at java.lang.Thread.run(Thread.java:745)
 </failure>
   </testcase>
-  <testcase name="checkOnUnq_with_repeatable_words" classname="SUthread.CheckerTest" time="0.001">
-    <failure message="java.lang.AssertionError: РћС€РёР±РєР°! РњРµС‚РѕРґ РґРѕР»Р¶РµРЅ РІРµСЂРЅСѓС‚СЊ &quot;РµС…Р°Р»Рё&quot;" type="java.lang.AssertionError">java.lang.AssertionError: РћС€РёР±РєР°! РњРµС‚РѕРґ РґРѕР»Р¶РµРЅ РІРµСЂРЅСѓС‚СЊ &quot;РµС…Р°Р»Рё&quot;
+  <testcase name="checkOnUnq_with_repeatable_words" classname="SUthread.CheckerTest" time="0.0">
+    <failure message="java.lang.AssertionError: Error! Must return &quot;РµС…Р°Р»Рё&quot;" type="java.lang.AssertionError">java.lang.AssertionError: Error! Must return &quot;РµС…Р°Р»Рё&quot;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.assertTrue(Assert.java:41)
-	at SUthread.CheckerTest.checkOnUnq_with_repeatable_words(CheckerTest.java:59)
+	at SUthread.CheckerTest.checkOnUnq_with_repeatable_words(CheckerTest.java:65)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

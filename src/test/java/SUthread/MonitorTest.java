@@ -15,14 +15,10 @@ import static org.junit.Assert.*;
 
 /**
  * Created by raxis on 16.12.2016.
- * Тесты для класса Monitors
+ * Тесты для класса Monitor
  */
 public class MonitorTest {
     private static Logger logger = Logger.getLogger(MonitorTest.class);
-
-    private Monitor monitor;
-    private List<Thread> threadList;
-    private static final int quantityOfTestingThreads = 3;
 
     @BeforeClass
     public static void beforeClass() throws IOException {
@@ -32,32 +28,13 @@ public class MonitorTest {
 
     @Before
     public void before() throws Exception {
-        this.threadList = new ArrayList<>();
-        for(int i=0;i<quantityOfTestingThreads;i++){
-            this.threadList.add(new Thread());
-        }
-        this.monitor=new Monitor(this.threadList);
+
     }
 
-    /**
-     * Тестируется, что метод start() запускает все потоки, переданные в
-     * конструктор при создании объекта monitor
-     * @throws Exception
-     */
-    @Test
-    public void start() throws Exception {
-        int count=0;
-        monitor.start();
-        for(Thread t:threadList){
-            if(t.isAlive()) count++;
-        }
-
-        assertEquals(quantityOfTestingThreads,count);
-    }
 
     /**
-     * Все сообщения, переданные в этот статичесикй метод, должны возвратиться
-     * статическим методом getMessages
+     * Все сообщения, переданные в этот метод, должны возвратиться
+     * методом getMessages
      * @throws Exception
      */
     @Test
@@ -67,8 +44,9 @@ public class MonitorTest {
         Monitor.process("msg2");
         Monitor.process("msg3");
 
-        for(String s:Monitor.getMessages()){
-            str=str+s;
+        for(int i=Monitor.getMessages().size()-3;i<Monitor.getMessages().size();i++)
+        {
+            str=str+Monitor.getMessages().get(i);
         }
         assertEquals("msg1msg2msg3",str);
     }
@@ -85,31 +63,11 @@ public class MonitorTest {
         Monitor.alarm("msg2");
         Monitor.alarm("msg3");
 
-        for(String s:Monitor.getAlarmMessages()){
-            str=str+s;
+        for(int i=Monitor.getAlarmMessages().size()-3;i<Monitor.getAlarmMessages().size();i++)
+        {
+            str=str+Monitor.getAlarmMessages().get(i);
         }
         assertEquals("msg1msg2msg3",str);
-    }
-
-    /**
-     * Метод должен вернуть true если есть запущенные потоки
-     * @throws Exception
-     */
-    @Test
-    public void isAliveThreads() throws Exception {
-        for(Thread t:threadList){
-            t.start();
-        }
-        assertEquals(true,Monitor.isAliveThreads());
-    }
-
-    /**
-     * Метод должен вернуть false если нет ни одного запущенного потока
-     * @throws Exception
-     */
-    @Test
-    public void isAleveThreads_with_no_alive_threads(){
-        assertEquals(false,Monitor.isAliveThreads());
     }
 
 }

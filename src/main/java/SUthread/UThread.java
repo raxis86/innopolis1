@@ -15,26 +15,24 @@ import java.util.List;
 public class UThread extends Thread {
     private static final Logger logger = LoggerFactory.getLogger(UThread.class);
 
-    private String resource;
-    private IReadable checkable;
-    private ICheckable check;
+    private String sourceName;
+    private IReadable source;
+
+    private String interruptText;
+    private String okText;
 
     /**
      * Конструктор класса
-     * @param resource - строка с путем у ресурсу
+     * @param threadGroup - экземпляр ThreadGroup, к которой будет привязан поток
+     * @param source - объект реализующий IReadable
      * Создает объекты классов, реализующих IReadable и ICheckable в зависимости от ресурса
      */
 
-    public UThread(String resource){
-        super();
-        this.resource=resource;
-        if(resource.matches("^http.+$")){
-            checkable = new UrlForCheck();
-        }
-        else {
-            checkable = new FileForCheck();
-        }
-        check=new Checker();
+    public UThread(ThreadGroup threadGroup, IReadable source){
+        super(threadGroup, "uthread" + source.getResourcePath().hashCode());
+
+        this.sourceName = source.getResourcePath();
+        this.source =source;
     }
 
     /**
@@ -42,44 +40,68 @@ public class UThread extends Thread {
      */
     @Override
     public void run() {
-        List<String> stringList = new ArrayList<>();
-        try(BufferedReader bufferedReader = checkable.open(resource)) {
-            while (!isInterrupted()){
-                if(bufferedReader.ready()==false)break;
-                stringList.add(bufferedReader.readLine());
-            }
-            if(isInterrupted()){
-                logger.error(String.format("Обработка потока прервана %s", resource));
-            }
-            else{
-                String nonCyr=check.checkOnRus(stringList);
-                if(nonCyr!=null){
-                    logger.error(String.format("Слово не на кириллице \"%s\" в ресурсе %s", nonCyr, resource));
-                    Monitor.alarm(String.format("Слово не на кириллице \"%s\" в ресурсе %s", nonCyr, resource));
-                }else
-                {
-                    if(isInterrupted()){
-                        logger.error(String.format("Обработка потока прервана %s", resource));
-                    }
-                    else {
-                        String str=check.checkOnUnq(stringList);
-                        if(str!=null) {
-                            logger.error(String.format("Повтор слова \"%s\" в ресурсе %s", str, resource));
-                            Monitor.alarm(String.format("Повтор слова \"%s\" в ресурсе %s", str, resource));
-                        }
-                        else {
-                            logger.info(String.format("%s: Ресурс обработан удачно %s",currentThread().getName(),resource));
-                            Monitor.process(String.format("%s: Ресурс обработан удачно %s",currentThread().getName(),resource));
-                        }
-                    }
+
+        try(BufferedReader bufferedReader = source.open()) {
+
+            //Преобразование BufferedReader в список строк
+            List<String> stringList = prepareStringListFromBufferReader(bufferedReader);
+
+            //Создание экземпляра Strategy-класса. Передатся экземпляр чекера для поиска слов не на кириллице
+            Checkering checkering = new Checkering(new CheckerCyr());
+
+            //Если найдено не кириллическое слово
+            if(checkering.check(stringList,sourceName)!=null){
+                synchronized (Monitor.monitor){
+                    Monitor.alarm("Слово не на кириллице \""+ checkering.getProblemWord() +"\". " + sourceName);
                 }
+                logger.error("Слово не на кириллице \""+ checkering.getProblemWord() +"\". " + sourceName);
             }
 
-        }catch (IOException e) {
-            logger.error("Ошибка в потоке, открывающем ресурс",e);
-            //Monitor.alarm(e.getMessage());
-            //e.printStackTrace();
+            //Передается экземпляр класса, реализующий поиск повторяющихся слов
+            checkering.setChecker(new CheckerRep());
+
+            //Если найдено повторяющееся слово
+            if(checkering.check(stringList,sourceName)!=null){
+                synchronized (Monitor.monitor){
+                    Monitor.alarm("Повтор слова \""+ checkering.getProblemWord() + "\". "+ sourceName);
+                }
+                logger.error("Повтор слова \""+ checkering.getProblemWord() + "\". "+ sourceName);
+            }
+
+            //Повторяющихся слов не нашлось, следовательно ресурс обработан удачно
+            else{
+                synchronized (Monitor.monitor){
+                    Monitor.process(String.format("%s: Ресурс обработан удачно %s",currentThread().getName(), sourceName));
+                }
+                logger.info(String.format("%s: Ресурс обработан удачно %s",currentThread().getName(), sourceName));
+            }
+
+        }catch(SUSoftInterruptException e){
+            logger.error(e.getMessage());
+
+        }catch(IOException e) {
+            logger.error("Ошибка при открытии ресурса",e);
         }
 
     }
+
+    /**
+     * Метод для преобразовния BufferedReader в список строк
+     * @param bufferedReader
+     * @return Список строк
+     * @throws IOException
+     * @throws SUSoftInterruptException - выкидывается, если поток прерван
+     */
+    private List<String> prepareStringListFromBufferReader(BufferedReader bufferedReader) throws IOException, SUSoftInterruptException {
+        List<String> stringList = new ArrayList<>();
+        while (!Monitor.getAlarm()){
+            if(bufferedReader.ready()==false)break;
+            stringList.add(bufferedReader.readLine());
+        }
+        if(Monitor.getAlarm()){
+            throw new SUSoftInterruptException(String.format("Обработка ресурса прервана: %s", sourceName));
+        }
+        return stringList;
+    }
+
 }

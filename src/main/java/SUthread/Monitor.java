@@ -10,65 +10,62 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * Created by raxis on 15.12.2016.
+ * Класс, содержащий монитор для синхронизации потоков,
+ * а также переменные для хранения сообщений потоков и
+ * переменную-флаг для прерывания потоков
  */
 public class Monitor {
     private static final Logger logger = LoggerFactory.getLogger(Monitor.class);
 
-    //private static Lock lock = new ReentrantLock();
-    private static List<String> messages = new ArrayList<>();
-    private static List<String> alarmMsg = new ArrayList<>();
-    private static List<Thread> threads = new ArrayList<>();
+    /**
+     * monitor - монитор для захвата потоками
+     * alarm - флаг для прерывания работы потоков
+     */
+    public static final Object monitor = new Object();
+    private static volatile boolean alarm=false;
+    private static volatile List<String> messages = new ArrayList<>();
+    private static volatile List<String> alarmMsg = new ArrayList<>();
 
-    private static void interruptAll(){
-        for(Thread t:threads){
-            t.interrupt();
-        }
+    /**
+     * Getter переменной alarm
+     * @return значение переменной alarm
+     */
+    public static boolean getAlarm() {
+        return alarm;
     }
 
-    public Monitor(List<Thread> threads){
-        this.threads=threads;
+    /**
+     * Метод для записи сообщений
+     * об удачной обработке ресурса от потоков
+     * @param message - сообщение
+     */
+    public static void process(String message){
+        messages.add(message);
     }
 
-    /*public Monitor(){
-
+    /**
+     * Метод для записи сообщений
+     * об неудачной обработке ресурса от потоков
+     * и выставления флага alarm в true
+     * @param message - сообщение
+     */
+    public static void alarm(String message) {
+        alarm=true;
+        alarmMsg.add(message);
     }
 
-    public void addThread(Thread thread){
-        threads.add(thread);
-    }*/
-
-
-    public void start(){
-        for(Thread t:threads){
-            t.start();
-        }
-    }
-
-    public static synchronized void process(String message){
-            messages.add(message);
-    }
-
-    public static synchronized void alarm(String message) {
-        if(!Thread.currentThread().isInterrupted()) {
-            alarmMsg.add(message);
-        }
-        //alarmMsg.add(message);
-            interruptAll();
-    }
-
+    /**
+     * Метод, возвращающий список сообщений о корректной обработке
+     */
     public static List<String> getMessages(){
         return messages;
     }
 
+    /**
+     * Метод, возвращающий список сообщений о некорректной обработке
+     */
     public static List<String> getAlarmMessages(){
         return alarmMsg;
-    }
-
-    public static boolean isAliveThreads(){
-        for(Thread t:threads){
-            if(t.isAlive())return true;
-        }
-        return false;
     }
 
 

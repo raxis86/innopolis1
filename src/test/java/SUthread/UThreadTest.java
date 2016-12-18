@@ -8,6 +8,7 @@ import org.junit.Test;
 import org.junit.rules.TemporaryFolder;
 
 import java.io.*;
+import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -15,24 +16,27 @@ import static org.junit.Assert.*;
 
 /**
  * Created by raxis on 16.12.2016.
+ * Модульный тест для класса UThread
  */
 public class UThreadTest {
     private static Logger logger = Logger.getLogger(UThreadTest.class);
 
-    private List<Thread> threadList = new ArrayList<>();
+    //private List<Thread> threadList = new ArrayList<>();
     private UThread thread;
+    private ThreadGroup threadGroup;
+    private IReadable resForOpen;
     private File file, fileWithNoRus, fileWithRepWords;
     private BufferedWriter bufferedWriter;
     private final String testText = "Ехали медведи на велосипеде";
     private final String testTextRep = "Ехали медведи на велосипеде медведи";
     private final String testTextNoRus = "Ехали медведи на велосипеде. Stop.";
 
-    private static boolean isAliveThreads(List<Thread> threads){
+    /*private static boolean isAliveThreads(List<Thread> threads){
         for(Thread t:threads){
             if(t.isAlive())return true;
         }
         return false;
-    }
+    }*/
 
     @Rule
     public TemporaryFolder folder= new TemporaryFolder();
@@ -45,6 +49,7 @@ public class UThreadTest {
 
     @Before
     public void before() throws Exception {
+        threadGroup = new ThreadGroup("Group");
         file = folder.newFile("resource.txt");
         bufferedWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file),"Cp1251"));
         bufferedWriter.write(testText);
@@ -57,6 +62,15 @@ public class UThreadTest {
         bufferedWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(fileWithRepWords),"Cp1251"));
         bufferedWriter.write(testTextRep);
         bufferedWriter.close();
+
+        Class c = Monitor.class;
+        Field[] fields = c.getDeclaredFields();
+        for(Field field:fields){
+            if("alarm".equals(field.getName())){
+                field.setAccessible(true);
+                field.setBoolean(c,false);
+            }
+        }
     }
 
     /**
@@ -65,29 +79,14 @@ public class UThreadTest {
      */
     @Test
     public void run() throws Exception {
-        thread = new UThread(file.getPath());
+        resForOpen = new FileForCheck(file.getPath());
+        thread = new UThread(threadGroup,resForOpen);
         thread.run();
-        /*int count=0;
-        for(int i=0;i<1;i++){
-            threadList.add(new UThread(file.getPath()));
-        }
-        for(Thread t:threadList){
-            t.run();
-        }
 
-        while (isAliveThreads(threadList));
+        int i=Monitor.getMessages().size();
+        boolean flag=Monitor.getMessages().get(i-1).contains("Ресурс обработан удачно");
 
-        for(int i=0;i<1;i++){
-            if(Monitor.getMessages().get(i).contains("Ресурс обработан удачно")) count++;
-        }
-
-        assertEquals(1,count);*/
-        int count=0;
-        for(int i=0;i<Monitor.getMessages().size();i++){
-            if(Monitor.getMessages().get(i).contains("Ресурс обработан удачно")) count++;
-        }
-
-        assertTrue("Результат не корректен",count>0);
+        assertTrue("Результат не корректен",flag);
     }
 
     /**
@@ -96,30 +95,14 @@ public class UThreadTest {
      */
     @Test
     public void run_with_no_rus_sources() throws Exception{
-        /*int count=0;
-        for(int i=0;i<1;i++){
-            threadList.add(new UThread(fileWithNoRus.getPath()));
-        }
-        for(Thread t:threadList){
-            t.run();
-        }
-
-        while (isAliveThreads(threadList));
-
-        for(int i=0;i<1;i++){
-            if(Monitor.getAlarmMessages().get(i).contains("Слово не на кириллице")) count++;
-        }
-
-        assertEquals(1,count);*/
-        int count=0;
-        thread = new UThread(fileWithNoRus.getPath());
+        resForOpen = new FileForCheck(fileWithNoRus.getPath());
+        thread = new UThread(threadGroup,resForOpen);
         thread.run();
 
-        for(int i=0;i<Monitor.getAlarmMessages().size();i++){
-            if(Monitor.getAlarmMessages().get(i).contains("Слово не на кириллице")) count++;
-        }
+        int i=Monitor.getAlarmMessages().size();
+        boolean flag=Monitor.getAlarmMessages().get(i-1).contains("Слово не на кириллице");
 
-        assertTrue("Результат не корректен",count>0);
+        assertTrue("Результат не корректен",flag);
     }
 
     /**
@@ -128,30 +111,15 @@ public class UThreadTest {
      */
     @Test
     public void run_with_rep_words() throws Exception{
-        /*int count=0;
-        for(int i=0;i<1;i++){
-            threadList.add(new UThread(fileWithRepWords.getPath()));
-        }
-        for(Thread t:threadList){
-            t.run();
-        }
-
-        while (isAliveThreads(threadList));
-
-        for(int i=0;i<1;i++){
-            if(Monitor.getAlarmMessages().get(i).contains("Повтор слова")) count++;
-        }
-
-        assertEquals(1,count);*/
         int count=0;
-        thread = new UThread(fileWithRepWords.getPath());
+        resForOpen = new FileForCheck(fileWithRepWords.getPath());
+        thread = new UThread(threadGroup,resForOpen);
         thread.run();
 
-        for(int i=0;i<Monitor.getAlarmMessages().size();i++){
-            if(Monitor.getAlarmMessages().get(i).contains("Повтор слова")) count++;
-        }
+        int i=Monitor.getAlarmMessages().size();
+        boolean flag=Monitor.getAlarmMessages().get(i-1).contains("Повтор слова");
 
-        assertTrue("Результат не корректен",count>0);
+        assertTrue("Результат не корректен",flag);
     }
 
 }

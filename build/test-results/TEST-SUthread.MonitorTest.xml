@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SUthread.MonitorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-12-16T18:37:46" hostname="Raxis-pc" time="0.051">
+<testsuite name="SUthread.MonitorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-12-16T18:50:41" hostname="Raxis-pc" time="0.041">
   <properties/>
-  <testcase name="start" classname="SUthread.MonitorTest" time="0.029"/>
-  <testcase name="isAleveThreads_with_no_alive_threads" classname="SUthread.MonitorTest" time="0.001"/>
+  <testcase name="start" classname="SUthread.MonitorTest" time="0.024"/>
+  <testcase name="isAleveThreads_with_no_alive_threads" classname="SUthread.MonitorTest" time="0.002"/>
   <testcase name="isAliveThreads" classname="SUthread.MonitorTest" time="0.002"/>
-  <testcase name="process_and_getMessages" classname="SUthread.MonitorTest" time="0.001"/>
-  <testcase name="alarm_and_getAlarmMessages" classname="SUthread.MonitorTest" time="0.002"/>
+  <testcase name="process_and_getMessages" classname="SUthread.MonitorTest" time="0.005"/>
+  <testcase name="alarm_and_getAlarmMessages" classname="SUthread.MonitorTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

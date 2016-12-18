@@ -1,0 +1,2544 @@
+2016-12-17 10:13:11,177 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:13:11,181 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:13:11,181 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:13:11,181 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:13:11,180 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:13:11,180 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:13:11,180 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:13:11,180 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:13:11,180 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:13:11,178 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:13:11,310 INFO [{}] uthread: Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:13:11,328 ERROR [{}] Повтор слова "вы" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:13:11,324 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:13:11,323 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:13:11,321 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:13:11,349 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:13:11,386 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:13:11,399 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:13:11,399 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:13:11,400 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:13:20,374 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:13:20,377 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:13:20,377 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:13:20,377 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:13:20,377 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:13:20,376 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:13:20,375 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:13:20,375 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:13:20,375 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:13:20,375 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:13:20,402 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:13:20,407 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:13:20,408 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:13:20,409 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:13:20,411 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:13:20,414 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:13:20,417 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:13:20,418 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:13:20,419 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:13:20,419 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:13:42,719 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:13:42,723 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:13:42,723 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:13:42,723 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:13:42,723 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:13:42,723 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:13:42,722 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:13:42,722 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:13:42,719 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:13:42,751 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:13:42,760 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:13:42,765 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:13:42,772 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:13:42,783 ERROR [{}] Повтор слова "вы" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:13:42,794 ERROR [{}] Повтор слова "по" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:13:42,795 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:13:42,796 INFO [{}] uthread: Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:13:42,803 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:13:42,804 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:13:42,805 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:15:36,261 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:15:36,266 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:15:36,266 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:15:36,267 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:15:36,267 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:15:36,275 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:15:36,276 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:15:36,276 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:15:36,277 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:15:36,278 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:15:36,291 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:15:36,298 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:15:36,304 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:15:36,307 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:15:36,307 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:15:36,309 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:15:36,311 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:15:36,308 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:15:36,312 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:15:36,308 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:15:40,230 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:15:40,246 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:15:40,235 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:15:40,235 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:15:40,234 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:15:40,234 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:15:40,262 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:15:40,263 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:15:40,263 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:15:40,263 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:15:40,272 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:15:40,275 INFO [{}] uthread--137931259: Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:15:40,290 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:15:40,293 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:15:40,293 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:15:40,294 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:15:40,307 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:15:40,308 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:15:40,314 ERROR [{}] Повтор слова "вы" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:15:40,328 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:16:11,562 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:16:11,563 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:16:11,562 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:16:11,562 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:16:11,562 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:16:11,582 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:16:11,583 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:16:11,588 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:16:11,590 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:16:11,593 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:16:11,612 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:16:11,623 ERROR [{}] Повтор слова "вы" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:16:11,643 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:16:11,645 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:16:11,644 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:16:11,658 ERROR [{}] Повтор слова "с" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:16:11,644 INFO [{}] uthread-137931259: Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:16:11,651 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:16:11,650 ERROR [{}] Повтор слова "по" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:16:11,650 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:16:33,639 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:16:33,644 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:16:33,645 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:16:33,646 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:16:33,649 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:16:33,651 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:16:33,654 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:16:33,655 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:16:33,656 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:16:33,656 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:16:33,666 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:16:33,669 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:16:33,670 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:16:33,671 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:16:33,673 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:16:33,672 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:16:33,672 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:16:33,672 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:16:33,687 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:16:33,688 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:16:37,178 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:16:37,180 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:16:37,183 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:16:37,183 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:16:37,184 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:16:37,180 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:16:37,193 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:16:37,192 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:16:37,198 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:16:37,202 INFO [{}] uthread-137931259: Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:16:37,202 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:16:37,193 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:16:37,193 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:16:37,205 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:16:37,206 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:16:37,206 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:16:37,207 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:16:37,199 ERROR [{}] Слово не на кириллице "API" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:16:37,210 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:16:37,228 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:16:43,800 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:16:43,812 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:16:43,815 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:16:43,816 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:16:43,825 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:16:43,832 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:16:43,830 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:16:43,833 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:16:43,835 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:16:43,835 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:16:43,832 INFO [{}] uthread-137931259: Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:16:43,837 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:16:43,837 ERROR [{}] Слово не на кириллице "boo" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:16:43,837 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:16:43,837 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:16:43,838 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:16:43,838 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:16:43,839 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:16:43,839 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:16:43,851 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:41:36,520 INFO [{}] before class
+2016-12-17 10:41:48,191 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 10:41:48,604 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit2518668739911423995\myfile.txt
+2016-12-17 10:41:48,612 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit3077230217539376251\myfile.txt
+2016-12-17 10:41:48,621 INFO [{}] 
+2016-12-17 10:41:56,852 INFO [{}] Start tests for class "Monitor"
+2016-12-17 10:42:04,652 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 10:42:28,002 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 10:42:28,313 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit2217797599394839500\resourceWithNoRus.txt
+2016-12-17 10:42:28,323 ERROR [{}] Слово не на кириллице "Stop" в ресурсе C:\Users\raxis\AppData\Local\Temp\junit2217797599394839500\resourceWithNoRus.txt
+2016-12-17 10:42:28,354 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit529276466309739175\resourceWithRepWords.txt
+2016-12-17 10:42:28,356 ERROR [{}] Повтор слова "медведи" в ресурсе C:\Users\raxis\AppData\Local\Temp\junit529276466309739175\resourceWithRepWords.txt
+2016-12-17 10:42:28,379 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit5252956969307983623\resource.txt
+2016-12-17 10:42:28,382 INFO [{}] main: Ресурс обработан удачно C:\Users\raxis\AppData\Local\Temp\junit5252956969307983623\resource.txt
+2016-12-17 10:49:13,322 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 10:49:13,604 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 10:49:13,623 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit9196797321177468805\myfile.txt
+2016-12-17 10:49:13,643 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit8186439527360983512\myfile.txt
+2016-12-17 10:49:13,662 INFO [{}] 
+2016-12-17 10:49:13,668 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 10:49:13,717 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit4028423621067677134\resourceWithNoRus.txt
+2016-12-17 10:49:13,726 ERROR [{}] Слово не на кириллице "Stop" в ресурсе C:\Users\raxis\AppData\Local\Temp\junit4028423621067677134\resourceWithNoRus.txt
+2016-12-17 10:49:13,767 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit2615486202384086203\resourceWithRepWords.txt
+2016-12-17 10:49:13,768 ERROR [{}] Повтор слова "медведи" в ресурсе C:\Users\raxis\AppData\Local\Temp\junit2615486202384086203\resourceWithRepWords.txt
+2016-12-17 10:49:13,868 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit6384496579440864766\resource.txt
+2016-12-17 10:49:13,869 INFO [{}] main: Ресурс обработан удачно C:\Users\raxis\AppData\Local\Temp\junit6384496579440864766\resource.txt
+2016-12-17 10:49:13,878 INFO [{}] Start tests for class "Monitor"
+2016-12-17 10:49:13,891 INFO [{}] before class
+2016-12-17 10:51:43,976 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:51:43,979 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:51:43,978 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:51:43,978 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:51:43,978 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:51:43,978 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:51:43,977 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:51:43,977 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:51:43,977 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:51:43,976 INFO [{}] C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:51:44,010 ERROR [{}] Слово не на кириллице "II" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test8.txt
+2016-12-17 10:51:44,013 INFO [{}] uthread-137931259: Ресурс обработан удачно C:\Work\Java\Innopolis\SeekUniq\Test9.txt
+2016-12-17 10:51:44,033 ERROR [{}] Слово не на кириллице "n" в ресурсе C:\Work\Java\Innopolis\SeekUniq\Test1.txt
+2016-12-17 10:51:44,039 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test.txt
+2016-12-17 10:51:44,042 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test7.txt
+2016-12-17 10:51:44,043 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test6.txt
+2016-12-17 10:51:44,043 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test5.txt
+2016-12-17 10:51:44,062 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test3.txt
+2016-12-17 10:51:44,063 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test4.txt
+2016-12-17 10:51:44,078 ERROR [{}] Обработка потока прервана C:\Work\Java\Innopolis\SeekUniq\Test2.txt
+2016-12-17 10:57:57,425 INFO [{}] Test.txt
+2016-12-17 10:57:57,429 INFO [{}] Test9.txt
+2016-12-17 10:57:57,429 INFO [{}] Test8.txt
+2016-12-17 10:57:57,428 INFO [{}] Test7.txt
+2016-12-17 10:57:57,428 INFO [{}] Test4.txt
+2016-12-17 10:57:57,428 INFO [{}] Test6.txt
+2016-12-17 10:57:57,428 INFO [{}] Test5.txt
+2016-12-17 10:57:57,426 INFO [{}] Test1.txt
+2016-12-17 10:57:57,426 INFO [{}] Test3.txt
+2016-12-17 10:57:57,426 INFO [{}] Test2.txt
+2016-12-17 10:57:57,530 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 10:57:57,562 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 10:57:57,561 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 10:57:57,560 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 10:57:57,557 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 10:57:57,557 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 10:57:57,554 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 10:57:57,554 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 10:57:57,549 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 10:57:57,540 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 10:58:03,866 INFO [{}] Test.txt
+2016-12-17 10:58:03,870 INFO [{}] Test7.txt
+2016-12-17 10:58:03,869 INFO [{}] Test6.txt
+2016-12-17 10:58:03,869 INFO [{}] Test5.txt
+2016-12-17 10:58:03,869 INFO [{}] Test4.txt
+2016-12-17 10:58:03,868 INFO [{}] Test3.txt
+2016-12-17 10:58:03,868 INFO [{}] Test2.txt
+2016-12-17 10:58:03,868 INFO [{}] Test1.txt
+2016-12-17 10:58:03,875 INFO [{}] Test8.txt
+2016-12-17 10:58:03,885 INFO [{}] Test9.txt
+2016-12-17 10:58:03,892 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 10:58:03,897 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 10:58:03,906 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 10:58:03,907 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 10:58:03,914 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 10:58:03,917 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 10:58:03,917 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 10:58:03,918 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 10:58:03,925 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 10:58:03,927 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 10:58:20,134 INFO [{}] Test1.txt
+2016-12-17 10:58:20,135 INFO [{}] Test4.txt
+2016-12-17 10:58:20,134 INFO [{}] Test.txt
+2016-12-17 10:58:20,134 INFO [{}] Test2.txt
+2016-12-17 10:58:20,134 INFO [{}] Test3.txt
+2016-12-17 10:58:20,139 INFO [{}] Test5.txt
+2016-12-17 10:58:20,140 INFO [{}] Test6.txt
+2016-12-17 10:58:20,144 INFO [{}] Test7.txt
+2016-12-17 10:58:20,148 INFO [{}] Test9.txt
+2016-12-17 10:58:20,148 INFO [{}] Test8.txt
+2016-12-17 10:58:20,152 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 10:58:20,155 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 10:58:20,156 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 10:58:20,156 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 10:58:20,157 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 10:58:20,159 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 10:58:20,157 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 10:58:20,158 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 10:58:20,181 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 10:58:20,187 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 10:58:28,329 INFO [{}] Test.txt
+2016-12-17 10:58:28,356 INFO [{}] Test1.txt
+2016-12-17 10:58:28,360 INFO [{}] Test9.txt
+2016-12-17 10:58:28,361 INFO [{}] Test8.txt
+2016-12-17 10:58:28,361 INFO [{}] Test7.txt
+2016-12-17 10:58:28,361 INFO [{}] Test6.txt
+2016-12-17 10:58:28,362 INFO [{}] Test5.txt
+2016-12-17 10:58:28,362 INFO [{}] Test4.txt
+2016-12-17 10:58:28,362 INFO [{}] Test3.txt
+2016-12-17 10:58:28,363 INFO [{}] Test2.txt
+2016-12-17 10:58:28,370 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 10:58:28,374 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 10:58:28,378 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 10:58:28,392 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 10:58:28,399 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 10:58:28,401 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 10:58:28,403 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 10:58:28,414 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 10:58:28,418 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 10:58:28,458 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 10:59:49,283 INFO [{}] Test1.txt
+2016-12-17 10:59:49,283 INFO [{}] Test.txt
+2016-12-17 10:59:49,283 INFO [{}] Test3.txt
+2016-12-17 10:59:49,283 INFO [{}] Test2.txt
+2016-12-17 10:59:49,288 INFO [{}] Test4.txt
+2016-12-17 10:59:49,289 INFO [{}] Test5.txt
+2016-12-17 10:59:49,290 INFO [{}] Test6.txt
+2016-12-17 10:59:49,296 INFO [{}] Test9.txt
+2016-12-17 10:59:49,296 INFO [{}] Test8.txt
+2016-12-17 10:59:49,296 INFO [{}] Test7.txt
+2016-12-17 10:59:49,303 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 10:59:49,306 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 10:59:49,306 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 10:59:49,312 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 10:59:49,303 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 10:59:49,320 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 10:59:49,394 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 10:59:49,395 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 10:59:49,397 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 10:59:49,399 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 10:59:55,115 INFO [{}] Test.txt
+2016-12-17 10:59:55,136 INFO [{}] Test8.txt
+2016-12-17 10:59:55,136 INFO [{}] Test7.txt
+2016-12-17 10:59:55,138 INFO [{}] Test6.txt
+2016-12-17 10:59:55,136 INFO [{}] Test9.txt
+2016-12-17 10:59:55,142 INFO [{}] Test5.txt
+2016-12-17 10:59:55,145 INFO [{}] Test4.txt
+2016-12-17 10:59:55,148 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 10:59:55,160 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 10:59:55,160 INFO [{}] Test3.txt
+2016-12-17 10:59:55,164 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 10:59:55,165 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 10:59:55,169 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 10:59:55,169 INFO [{}] Test2.txt
+2016-12-17 10:59:55,171 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 10:59:55,172 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 10:59:55,179 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 10:59:55,180 INFO [{}] Test1.txt
+2016-12-17 10:59:55,184 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 10:59:55,186 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:00:43,154 INFO [{}] Test3.txt
+2016-12-17 11:00:43,158 INFO [{}] Test2.txt
+2016-12-17 11:00:43,159 INFO [{}] Test4.txt
+2016-12-17 11:00:43,159 INFO [{}] Test5.txt
+2016-12-17 11:00:43,155 INFO [{}] Test.txt
+2016-12-17 11:00:43,158 INFO [{}] Test1.txt
+2016-12-17 11:00:43,164 INFO [{}] Test6.txt
+2016-12-17 11:00:43,167 INFO [{}] Test9.txt
+2016-12-17 11:00:43,167 INFO [{}] Test8.txt
+2016-12-17 11:00:43,168 INFO [{}] Test7.txt
+2016-12-17 11:00:43,177 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:00:43,183 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:00:43,183 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:00:43,193 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:00:43,194 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 11:00:43,198 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:00:43,198 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 11:00:43,199 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 11:00:43,204 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:00:43,206 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:00:47,137 INFO [{}] Test.txt
+2016-12-17 11:00:47,140 INFO [{}] Test1.txt
+2016-12-17 11:00:47,145 INFO [{}] Test2.txt
+2016-12-17 11:00:47,147 INFO [{}] Test3.txt
+2016-12-17 11:00:47,148 INFO [{}] Test4.txt
+2016-12-17 11:00:47,151 INFO [{}] Test8.txt
+2016-12-17 11:00:47,151 INFO [{}] Test9.txt
+2016-12-17 11:00:47,151 INFO [{}] Test7.txt
+2016-12-17 11:00:47,152 INFO [{}] Test6.txt
+2016-12-17 11:00:47,152 INFO [{}] Test5.txt
+2016-12-17 11:00:47,165 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:00:47,167 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:00:47,170 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 11:00:47,170 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:00:47,171 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:00:47,172 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 11:00:47,172 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:00:47,176 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:00:47,184 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:00:47,193 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:00:50,975 INFO [{}] Test.txt
+2016-12-17 11:00:50,991 INFO [{}] Test9.txt
+2016-12-17 11:00:50,991 INFO [{}] Test8.txt
+2016-12-17 11:00:50,993 INFO [{}] Test7.txt
+2016-12-17 11:00:50,993 INFO [{}] Test6.txt
+2016-12-17 11:00:50,998 INFO [{}] Test5.txt
+2016-12-17 11:00:51,003 INFO [{}] Test4.txt
+2016-12-17 11:00:50,998 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:00:51,009 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:00:51,001 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:00:51,010 INFO [{}] Test3.txt
+2016-12-17 11:00:51,003 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:00:51,003 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:00:51,012 INFO [{}] Test2.txt
+2016-12-17 11:00:51,012 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 11:00:51,011 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 11:00:51,015 INFO [{}] Test1.txt
+2016-12-17 11:00:51,018 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 11:00:51,021 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:00:51,035 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:02:18,712 INFO [{}] Test.txt
+2016-12-17 11:02:18,741 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:02:18,744 INFO [{}] Test9.txt
+2016-12-17 11:02:18,744 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 11:02:18,745 INFO [{}] Test8.txt
+2016-12-17 11:02:18,745 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 11:02:18,746 INFO [{}] Test7.txt
+2016-12-17 11:02:18,746 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 11:02:18,757 INFO [{}] Test5.txt
+2016-12-17 11:02:18,757 INFO [{}] Test4.txt
+2016-12-17 11:02:18,757 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 11:02:18,758 INFO [{}] Test3.txt
+2016-12-17 11:02:18,759 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 11:02:18,757 INFO [{}] Test6.txt
+2016-12-17 11:02:18,760 INFO [{}] Test2.txt
+2016-12-17 11:02:18,760 INFO [{}] Test1.txt
+2016-12-17 11:02:18,760 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 11:02:18,761 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 11:02:18,757 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 11:02:18,760 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 11:02:24,921 INFO [{}] Test2.txt
+2016-12-17 11:02:24,922 INFO [{}] Test.txt
+2016-12-17 11:02:24,921 INFO [{}] Test1.txt
+2016-12-17 11:02:24,926 INFO [{}] Test3.txt
+2016-12-17 11:02:24,927 INFO [{}] Test4.txt
+2016-12-17 11:02:24,927 INFO [{}] Test5.txt
+2016-12-17 11:02:24,928 INFO [{}] Test6.txt
+2016-12-17 11:02:24,934 INFO [{}] Test9.txt
+2016-12-17 11:02:24,934 INFO [{}] Test8.txt
+2016-12-17 11:02:24,934 INFO [{}] Test7.txt
+2016-12-17 11:02:24,984 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:02:24,986 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:02:24,986 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:02:24,985 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:02:24,987 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:02:24,987 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:02:24,985 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:02:24,988 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:02:24,987 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:02:24,987 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:02:37,515 INFO [{}] Test.txt
+2016-12-17 11:02:37,524 INFO [{}] Test1.txt
+2016-12-17 11:02:37,525 INFO [{}] Test2.txt
+2016-12-17 11:02:37,526 INFO [{}] Test3.txt
+2016-12-17 11:02:37,533 INFO [{}] Test7.txt
+2016-12-17 11:02:37,533 INFO [{}] Test9.txt
+2016-12-17 11:02:37,534 INFO [{}] Test8.txt
+2016-12-17 11:02:37,534 INFO [{}] Test6.txt
+2016-12-17 11:02:37,534 INFO [{}] Test5.txt
+2016-12-17 11:02:37,535 INFO [{}] Test4.txt
+2016-12-17 11:02:37,557 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:02:37,559 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 11:02:37,561 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:02:37,562 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:02:37,571 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:02:37,576 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:02:37,580 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:02:37,583 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:02:37,587 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:02:37,589 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:02:43,572 INFO [{}] Test.txt
+2016-12-17 11:02:43,608 INFO [{}] Test9.txt
+2016-12-17 11:02:43,608 INFO [{}] Test8.txt
+2016-12-17 11:02:43,609 INFO [{}] Test7.txt
+2016-12-17 11:02:43,611 INFO [{}] Test6.txt
+2016-12-17 11:02:43,614 INFO [{}] Test5.txt
+2016-12-17 11:02:43,617 INFO [{}] Test4.txt
+2016-12-17 11:02:43,618 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:02:43,620 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:02:43,620 INFO [{}] Test3.txt
+2016-12-17 11:02:43,623 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:02:43,632 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:02:43,618 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:02:43,633 INFO [{}] Test2.txt
+2016-12-17 11:02:43,635 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:02:43,636 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:02:43,639 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:02:43,640 INFO [{}] Test1.txt
+2016-12-17 11:02:43,645 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:02:43,651 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:02:48,200 INFO [{}] Test.txt
+2016-12-17 11:02:48,203 INFO [{}] Test2.txt
+2016-12-17 11:02:48,205 INFO [{}] Test3.txt
+2016-12-17 11:02:48,206 INFO [{}] Test4.txt
+2016-12-17 11:02:48,206 INFO [{}] Test5.txt
+2016-12-17 11:02:48,207 INFO [{}] Test6.txt
+2016-12-17 11:02:48,207 INFO [{}] Test7.txt
+2016-12-17 11:02:48,203 INFO [{}] Test1.txt
+2016-12-17 11:02:48,209 INFO [{}] Test8.txt
+2016-12-17 11:02:48,217 INFO [{}] Test9.txt
+2016-12-17 11:02:48,263 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:02:48,281 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:02:48,282 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:02:48,274 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:02:48,276 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:02:48,285 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:02:48,289 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:02:48,289 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:02:48,290 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:02:48,291 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:02:53,974 INFO [{}] Test.txt
+2016-12-17 11:02:54,005 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:02:54,016 INFO [{}] Test9.txt
+2016-12-17 11:02:54,017 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 11:02:54,017 INFO [{}] Test8.txt
+2016-12-17 11:02:54,018 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 11:02:54,018 INFO [{}] Test7.txt
+2016-12-17 11:02:54,018 INFO [{}] Test6.txt
+2016-12-17 11:02:54,018 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 11:02:54,019 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 11:02:54,019 INFO [{}] Test5.txt
+2016-12-17 11:02:54,019 INFO [{}] Test4.txt
+2016-12-17 11:02:54,019 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 11:02:54,020 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 11:02:54,020 INFO [{}] Test3.txt
+2016-12-17 11:02:54,021 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 11:02:54,021 INFO [{}] Test2.txt
+2016-12-17 11:02:54,021 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 11:02:54,022 INFO [{}] Test1.txt
+2016-12-17 11:02:54,022 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 11:03:32,360 INFO [{}] Test4.txt
+2016-12-17 11:03:32,361 INFO [{}] Test9.txt
+2016-12-17 11:03:32,361 INFO [{}] Test8.txt
+2016-12-17 11:03:32,361 INFO [{}] Test7.txt
+2016-12-17 11:03:32,361 INFO [{}] Test6.txt
+2016-12-17 11:03:32,360 INFO [{}] Test.txt
+2016-12-17 11:03:32,360 INFO [{}] Test1.txt
+2016-12-17 11:03:32,360 INFO [{}] Test2.txt
+2016-12-17 11:03:32,360 INFO [{}] Test3.txt
+2016-12-17 11:03:32,360 INFO [{}] Test5.txt
+2016-12-17 11:03:32,379 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:03:32,386 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:03:32,390 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 11:03:32,392 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:03:32,397 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:03:32,409 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:03:32,409 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:03:32,412 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:03:32,415 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:03:32,418 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:03:37,284 INFO [{}] Test.txt
+2016-12-17 11:03:37,290 INFO [{}] Test1.txt
+2016-12-17 11:03:37,296 INFO [{}] Test2.txt
+2016-12-17 11:03:37,300 INFO [{}] Test9.txt
+2016-12-17 11:03:37,301 INFO [{}] Test8.txt
+2016-12-17 11:03:37,301 INFO [{}] Test7.txt
+2016-12-17 11:03:37,302 INFO [{}] Test6.txt
+2016-12-17 11:03:37,303 INFO [{}] Test5.txt
+2016-12-17 11:03:37,303 INFO [{}] Test4.txt
+2016-12-17 11:03:37,303 INFO [{}] Test3.txt
+2016-12-17 11:03:37,319 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:03:37,332 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:03:37,337 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:03:37,339 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:03:37,341 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:03:37,342 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:03:37,344 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:03:37,351 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:03:37,355 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:03:37,363 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:03:41,411 INFO [{}] Test3.txt
+2016-12-17 11:03:41,412 INFO [{}] Test5.txt
+2016-12-17 11:03:41,412 INFO [{}] Test4.txt
+2016-12-17 11:03:41,411 INFO [{}] Test.txt
+2016-12-17 11:03:41,411 INFO [{}] Test1.txt
+2016-12-17 11:03:41,411 INFO [{}] Test2.txt
+2016-12-17 11:03:41,416 INFO [{}] Test6.txt
+2016-12-17 11:03:41,418 INFO [{}] Test7.txt
+2016-12-17 11:03:41,420 INFO [{}] Test8.txt
+2016-12-17 11:03:41,426 INFO [{}] Test9.txt
+2016-12-17 11:03:41,443 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:03:41,449 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:03:41,459 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:03:41,460 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:03:41,461 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:03:41,461 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:03:41,462 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:03:41,463 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:03:41,464 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:03:41,464 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:05:03,062 INFO [{}] Test.txt
+2016-12-17 11:05:03,066 INFO [{}] Test1.txt
+2016-12-17 11:05:03,065 INFO [{}] Test6.txt
+2016-12-17 11:05:03,065 INFO [{}] Test3.txt
+2016-12-17 11:05:03,065 INFO [{}] Test2.txt
+2016-12-17 11:05:03,065 INFO [{}] Test5.txt
+2016-12-17 11:05:03,065 INFO [{}] Test4.txt
+2016-12-17 11:05:03,070 INFO [{}] Test7.txt
+2016-12-17 11:05:03,089 INFO [{}] Test9.txt
+2016-12-17 11:05:03,090 INFO [{}] Test8.txt
+2016-12-17 11:05:03,115 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:05:03,137 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:05:03,142 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:05:03,152 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:05:03,155 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:05:03,157 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:05:03,156 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:05:03,158 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:05:03,156 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:05:03,156 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:10:40,230 INFO [{}] Test3.txt
+2016-12-17 11:10:40,240 INFO [{}] Test2.txt
+2016-12-17 11:10:40,245 INFO [{}] Test.txt
+2016-12-17 11:10:40,273 INFO [{}] Test9.txt
+2016-12-17 11:10:40,273 INFO [{}] Test8.txt
+2016-12-17 11:10:40,274 INFO [{}] Test7.txt
+2016-12-17 11:10:40,275 INFO [{}] Test6.txt
+2016-12-17 11:10:40,276 INFO [{}] Test5.txt
+2016-12-17 11:10:40,276 INFO [{}] Test4.txt
+2016-12-17 11:10:40,277 INFO [{}] Test1.txt
+2016-12-17 11:10:40,291 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:10:40,296 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:10:40,299 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:10:40,302 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:10:40,305 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:10:40,307 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:10:40,313 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:10:40,322 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:10:40,322 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:10:40,323 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:12:22,327 INFO [{}] Test.txt
+2016-12-17 11:12:22,332 INFO [{}] Test1.txt
+2016-12-17 11:12:22,333 INFO [{}] Test2.txt
+2016-12-17 11:12:22,334 INFO [{}] Test3.txt
+2016-12-17 11:12:22,334 INFO [{}] Test4.txt
+2016-12-17 11:12:22,335 INFO [{}] Test5.txt
+2016-12-17 11:12:22,336 INFO [{}] Test6.txt
+2016-12-17 11:12:22,338 INFO [{}] Test7.txt
+2016-12-17 11:12:22,340 INFO [{}] Test8.txt
+2016-12-17 11:12:22,340 INFO [{}] Test9.txt
+2016-12-17 11:12:23,382 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:12:23,390 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:12:23,396 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 11:12:23,460 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:12:23,465 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:12:23,475 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:12:23,491 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:12:23,506 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:12:23,551 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:12:23,552 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:12:32,400 INFO [{}] Test.txt
+2016-12-17 11:12:32,403 INFO [{}] Test9.txt
+2016-12-17 11:12:32,403 INFO [{}] Test8.txt
+2016-12-17 11:12:32,403 INFO [{}] Test7.txt
+2016-12-17 11:12:32,402 INFO [{}] Test6.txt
+2016-12-17 11:12:32,402 INFO [{}] Test5.txt
+2016-12-17 11:12:32,402 INFO [{}] Test4.txt
+2016-12-17 11:12:32,402 INFO [{}] Test3.txt
+2016-12-17 11:12:32,401 INFO [{}] Test2.txt
+2016-12-17 11:12:32,401 INFO [{}] Test1.txt
+2016-12-17 11:12:33,432 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:12:33,468 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:12:33,470 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:12:33,473 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:12:33,480 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:12:33,545 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:12:33,557 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:12:33,573 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:12:33,774 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:12:33,775 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:13:10,122 INFO [{}] Test.txt
+2016-12-17 11:13:10,130 INFO [{}] Test1.txt
+2016-12-17 11:13:10,133 INFO [{}] Test2.txt
+2016-12-17 11:13:10,134 INFO [{}] Test3.txt
+2016-12-17 11:13:10,137 INFO [{}] Test4.txt
+2016-12-17 11:13:10,142 INFO [{}] Test5.txt
+2016-12-17 11:13:10,142 INFO [{}] Test6.txt
+2016-12-17 11:13:10,145 INFO [{}] Test7.txt
+2016-12-17 11:13:10,147 INFO [{}] Test8.txt
+2016-12-17 11:13:10,160 INFO [{}] Test9.txt
+2016-12-17 11:13:11,159 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:13:11,184 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:13:11,201 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 11:13:11,210 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:13:11,275 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:13:11,284 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 11:13:11,294 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:13:11,298 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 11:13:11,444 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:13:11,448 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:14:27,764 INFO [{}] Test.txt
+2016-12-17 11:14:27,767 INFO [{}] Test1.txt
+2016-12-17 11:14:27,768 INFO [{}] Test2.txt
+2016-12-17 11:14:27,769 INFO [{}] Test3.txt
+2016-12-17 11:14:27,769 INFO [{}] Test4.txt
+2016-12-17 11:14:27,770 INFO [{}] Test5.txt
+2016-12-17 11:14:27,771 INFO [{}] Test6.txt
+2016-12-17 11:14:27,773 INFO [{}] Test7.txt
+2016-12-17 11:14:27,773 INFO [{}] Test8.txt
+2016-12-17 11:14:27,775 INFO [{}] Test9.txt
+2016-12-17 11:14:28,829 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:14:28,905 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:14:28,914 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:14:28,921 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:14:28,922 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:14:28,994 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:14:29,002 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:14:28,922 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 11:14:29,008 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:14:29,009 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:15:05,230 INFO [{}] Test.txt
+2016-12-17 11:15:05,232 INFO [{}] Test9.txt
+2016-12-17 11:15:05,232 INFO [{}] Test8.txt
+2016-12-17 11:15:05,232 INFO [{}] Test7.txt
+2016-12-17 11:15:05,232 INFO [{}] Test6.txt
+2016-12-17 11:15:05,231 INFO [{}] Test5.txt
+2016-12-17 11:15:05,231 INFO [{}] Test4.txt
+2016-12-17 11:15:05,231 INFO [{}] Test3.txt
+2016-12-17 11:15:05,231 INFO [{}] Test2.txt
+2016-12-17 11:15:05,230 INFO [{}] Test1.txt
+2016-12-17 11:15:06,275 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:15:06,278 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:15:06,323 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:15:06,337 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 11:15:06,344 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 11:15:06,352 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:15:06,369 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 11:15:06,382 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:15:06,395 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 11:15:06,396 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:16:15,515 INFO [{}] Test.txt
+2016-12-17 11:16:15,515 INFO [{}] Test3.txt
+2016-12-17 11:16:15,515 INFO [{}] Test2.txt
+2016-12-17 11:16:15,515 INFO [{}] Test1.txt
+2016-12-17 11:16:15,536 INFO [{}] Test9.txt
+2016-12-17 11:16:15,536 INFO [{}] Test8.txt
+2016-12-17 11:16:15,538 INFO [{}] Test7.txt
+2016-12-17 11:16:15,539 INFO [{}] Test6.txt
+2016-12-17 11:16:15,540 INFO [{}] Test5.txt
+2016-12-17 11:16:15,541 INFO [{}] Test4.txt
+2016-12-17 11:16:15,551 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:16:15,554 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 11:16:15,554 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 11:16:15,558 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 11:16:15,563 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:16:15,563 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 11:16:15,568 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 11:16:15,569 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 11:16:15,564 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:16:15,572 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 11:23:30,793 INFO [{}] Test.txt
+2016-12-17 11:23:30,807 INFO [{}] Test1.txt
+2016-12-17 11:23:30,812 INFO [{}] Test9.txt
+2016-12-17 11:23:30,813 INFO [{}] Test8.txt
+2016-12-17 11:23:30,821 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 11:23:30,822 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 11:23:30,823 INFO [{}] Test7.txt
+2016-12-17 11:23:30,823 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 11:23:30,828 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 11:23:30,830 INFO [{}] Test6.txt
+2016-12-17 11:23:30,830 INFO [{}] Test5.txt
+2016-12-17 11:23:30,832 INFO [{}] Test4.txt
+2016-12-17 11:23:30,830 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 11:23:30,832 INFO [{}] Test3.txt
+2016-12-17 11:23:30,832 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 11:23:30,831 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 11:23:30,833 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 11:23:30,834 INFO [{}] Test2.txt
+2016-12-17 11:23:30,834 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 11:23:30,836 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 12:15:52,075 INFO [{}] Test.txt
+2016-12-17 12:15:52,092 INFO [{}] Test6.txt
+2016-12-17 12:15:52,092 INFO [{}] Test5.txt
+2016-12-17 12:15:52,091 INFO [{}] Test4.txt
+2016-12-17 12:15:52,091 INFO [{}] Test3.txt
+2016-12-17 12:15:52,082 INFO [{}] Test2.txt
+2016-12-17 12:15:52,080 INFO [{}] Test1.txt
+2016-12-17 12:15:52,114 INFO [{}] Test7.txt
+2016-12-17 12:15:52,114 INFO [{}] Test8.txt
+2016-12-17 12:15:52,119 INFO [{}] Test9.txt
+2016-12-17 12:15:52,129 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 12:15:52,136 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 12:15:52,139 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 12:15:52,139 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 12:15:52,141 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 12:15:52,146 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 12:15:52,195 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 12:15:52,196 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 12:15:52,196 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 12:15:52,197 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 12:15:56,836 INFO [{}] Test.txt
+2016-12-17 12:15:56,844 INFO [{}] Test1.txt
+2016-12-17 12:15:56,845 INFO [{}] Test2.txt
+2016-12-17 12:15:56,845 INFO [{}] Test3.txt
+2016-12-17 12:15:56,845 INFO [{}] Test4.txt
+2016-12-17 12:15:56,846 INFO [{}] Test5.txt
+2016-12-17 12:15:56,847 INFO [{}] Test6.txt
+2016-12-17 12:15:56,852 INFO [{}] Test8.txt
+2016-12-17 12:15:56,852 INFO [{}] Test7.txt
+2016-12-17 12:15:56,852 INFO [{}] Test9.txt
+2016-12-17 12:15:56,857 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 12:15:56,862 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 12:15:56,862 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 12:15:56,863 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 12:15:56,868 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 12:15:56,870 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 12:15:56,875 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 12:15:56,880 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 12:15:56,889 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 12:15:56,892 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 12:16:00,606 INFO [{}] Test.txt
+2016-12-17 12:16:00,639 INFO [{}] Test9.txt
+2016-12-17 12:16:00,640 INFO [{}] Test8.txt
+2016-12-17 12:16:00,640 INFO [{}] Test7.txt
+2016-12-17 12:16:00,643 INFO [{}] Test6.txt
+2016-12-17 12:16:00,647 INFO [{}] Test5.txt
+2016-12-17 12:16:00,651 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 12:16:00,653 INFO [{}] Test4.txt
+2016-12-17 12:16:00,653 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 12:16:00,654 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 12:16:00,654 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 12:16:00,653 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 12:16:00,655 INFO [{}] Test3.txt
+2016-12-17 12:16:00,655 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 12:16:00,669 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 12:16:00,671 INFO [{}] Test2.txt
+2016-12-17 12:16:00,672 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 12:16:00,671 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 12:16:00,683 INFO [{}] Test1.txt
+2016-12-17 12:16:00,683 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 12:16:48,568 INFO [{}] Test1.txt
+2016-12-17 12:16:48,571 INFO [{}] Test4.txt
+2016-12-17 12:16:48,568 INFO [{}] Test3.txt
+2016-12-17 12:16:48,568 INFO [{}] Test.txt
+2016-12-17 12:16:48,568 INFO [{}] Test2.txt
+2016-12-17 12:16:48,573 INFO [{}] Test5.txt
+2016-12-17 12:16:48,575 INFO [{}] Test6.txt
+2016-12-17 12:16:48,583 INFO [{}] Test8.txt
+2016-12-17 12:16:48,583 INFO [{}] Test9.txt
+2016-12-17 12:16:48,584 INFO [{}] Test7.txt
+2016-12-17 12:16:48,598 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 12:16:48,600 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 12:16:48,607 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 12:16:48,608 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 12:16:48,612 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 12:16:48,623 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 12:16:48,614 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 12:16:48,625 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 12:16:48,614 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 12:16:48,615 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 12:20:12,722 INFO [{}] Test.txt
+2016-12-17 12:20:12,722 INFO [{}] Test1.txt
+2016-12-17 12:20:12,722 INFO [{}] Test3.txt
+2016-12-17 12:20:12,722 INFO [{}] Test2.txt
+2016-12-17 12:20:12,727 INFO [{}] Test4.txt
+2016-12-17 12:20:12,727 INFO [{}] Test5.txt
+2016-12-17 12:20:12,729 INFO [{}] Test6.txt
+2016-12-17 12:20:12,734 INFO [{}] Test9.txt
+2016-12-17 12:20:12,735 INFO [{}] Test8.txt
+2016-12-17 12:20:12,735 INFO [{}] Test7.txt
+2016-12-17 12:20:12,746 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 12:20:12,748 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 12:20:12,748 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 12:20:12,749 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 12:20:12,750 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 12:20:12,750 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 12:20:12,759 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 12:20:12,759 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 12:20:12,767 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 12:20:12,781 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 12:22:43,184 INFO [{}] before class
+2016-12-17 12:22:43,215 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 12:22:43,514 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit2118505055070754561\myfile.txt
+2016-12-17 12:22:43,525 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit2366635323351698364\myfile.txt
+2016-12-17 12:22:43,535 INFO [{}] 
+2016-12-17 12:22:43,539 INFO [{}] Start tests for class "Monitor"
+2016-12-17 12:22:43,572 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 12:22:43,589 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit8564834211928057772\resourceWithNoRus.txt
+2016-12-17 12:22:43,591 ERROR [{}] Слово не на кириллице "Stop" в ресурсе C:\Users\raxis\AppData\Local\Temp\junit8564834211928057772\resourceWithNoRus.txt
+2016-12-17 12:22:43,609 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit4384138305645487319\resourceWithRepWords.txt
+2016-12-17 12:22:43,611 ERROR [{}] Повтор слова "медведи" в ресурсе C:\Users\raxis\AppData\Local\Temp\junit4384138305645487319\resourceWithRepWords.txt
+2016-12-17 12:22:43,631 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit6747276575890658206\resource.txt
+2016-12-17 12:22:43,632 INFO [{}] main: Ресурс обработан удачно C:\Users\raxis\AppData\Local\Temp\junit6747276575890658206\resource.txt
+2016-12-17 12:22:43,638 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 13:21:04,303 INFO [{}] Test1.txt
+2016-12-17 13:21:04,308 INFO [{}] Test8.txt
+2016-12-17 13:21:04,308 INFO [{}] Test9.txt
+2016-12-17 13:21:04,308 INFO [{}] Test7.txt
+2016-12-17 13:21:04,308 INFO [{}] Test6.txt
+2016-12-17 13:21:04,308 INFO [{}] Test5.txt
+2016-12-17 13:21:04,308 INFO [{}] Test4.txt
+2016-12-17 13:21:04,307 INFO [{}] Test3.txt
+2016-12-17 13:21:04,307 INFO [{}] Test2.txt
+2016-12-17 13:21:04,304 INFO [{}] Test.txt
+2016-12-17 13:21:04,389 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 13:21:04,408 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 13:21:04,399 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 13:21:04,397 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 13:21:04,393 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 13:21:04,390 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 13:21:04,431 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 13:21:04,459 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 13:21:04,461 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 13:21:04,461 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 13:21:11,272 INFO [{}] Test.txt
+2016-12-17 13:21:11,285 INFO [{}] Test9.txt
+2016-12-17 13:21:11,286 INFO [{}] Test7.txt
+2016-12-17 13:21:11,285 INFO [{}] Test8.txt
+2016-12-17 13:21:11,299 INFO [{}] Test6.txt
+2016-12-17 13:21:11,308 INFO [{}] Test5.txt
+2016-12-17 13:21:11,307 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 13:21:11,309 INFO [{}] Test4.txt
+2016-12-17 13:21:11,308 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 13:21:11,317 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 13:21:11,322 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 13:21:11,323 INFO [{}] Test3.txt
+2016-12-17 13:21:11,309 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 13:21:11,325 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 13:21:11,325 INFO [{}] Test2.txt
+2016-12-17 13:21:11,327 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 13:21:11,329 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 13:21:11,331 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 13:21:11,332 INFO [{}] Test1.txt
+2016-12-17 13:21:11,337 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 13:21:20,157 INFO [{}] Test.txt
+2016-12-17 13:21:20,175 INFO [{}] Test9.txt
+2016-12-17 13:21:20,175 INFO [{}] Test8.txt
+2016-12-17 13:21:20,176 INFO [{}] Test7.txt
+2016-12-17 13:21:20,178 INFO [{}] Test6.txt
+2016-12-17 13:21:20,184 INFO [{}] Test5.txt
+2016-12-17 13:21:20,185 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 13:21:20,187 INFO [{}] Test4.txt
+2016-12-17 13:21:20,187 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 13:21:20,188 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 13:21:20,189 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 13:21:20,189 INFO [{}] Test3.txt
+2016-12-17 13:21:20,187 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 13:21:20,189 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 13:21:20,190 INFO [{}] Test2.txt
+2016-12-17 13:21:20,190 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 13:21:20,187 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 13:21:20,189 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 13:21:20,192 INFO [{}] Test1.txt
+2016-12-17 13:21:20,193 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 13:22:42,848 INFO [{}] Test1.txt
+2016-12-17 13:22:42,851 INFO [{}] Test4.txt
+2016-12-17 13:22:42,851 INFO [{}] Test3.txt
+2016-12-17 13:22:42,850 INFO [{}] Test2.txt
+2016-12-17 13:22:42,850 INFO [{}] Test.txt
+2016-12-17 13:22:42,856 INFO [{}] Test5.txt
+2016-12-17 13:22:42,857 INFO [{}] Test6.txt
+2016-12-17 13:22:42,857 INFO [{}] Test7.txt
+2016-12-17 13:22:42,865 INFO [{}] Test9.txt
+2016-12-17 13:22:42,869 INFO [{}] Test8.txt
+2016-12-17 13:22:42,889 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 13:22:42,891 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 13:22:42,894 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 13:22:42,903 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 13:22:42,907 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 13:22:42,914 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 13:22:42,907 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 13:22:42,916 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 13:22:42,911 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 13:22:42,910 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 13:49:36,310 INFO [{}] Test.txt
+2016-12-17 13:49:36,314 INFO [{}] Test9.txt
+2016-12-17 13:49:36,314 INFO [{}] Test8.txt
+2016-12-17 13:49:36,313 INFO [{}] Test7.txt
+2016-12-17 13:49:36,313 INFO [{}] Test6.txt
+2016-12-17 13:49:36,313 INFO [{}] Test5.txt
+2016-12-17 13:49:36,313 INFO [{}] Test4.txt
+2016-12-17 13:49:36,313 INFO [{}] Test3.txt
+2016-12-17 13:49:36,313 INFO [{}] Test2.txt
+2016-12-17 13:49:36,313 INFO [{}] Test1.txt
+2016-12-17 13:49:36,386 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 13:49:36,387 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 13:49:36,387 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 13:49:36,386 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 13:49:36,386 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 13:49:36,393 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 13:49:36,395 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 13:49:36,403 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 13:49:36,404 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 13:49:36,404 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 13:50:19,212 INFO [{}] Test1.txt
+2016-12-17 13:50:19,216 INFO [{}] Test4.txt
+2016-12-17 13:50:19,213 INFO [{}] Test.txt
+2016-12-17 13:50:19,212 INFO [{}] Test2.txt
+2016-12-17 13:50:19,212 INFO [{}] Test3.txt
+2016-12-17 13:50:19,218 INFO [{}] Test5.txt
+2016-12-17 13:50:19,219 INFO [{}] Test9.txt
+2016-12-17 13:50:19,220 INFO [{}] Test7.txt
+2016-12-17 13:50:19,222 INFO [{}] Test8.txt
+2016-12-17 13:50:19,224 INFO [{}] Test6.txt
+2016-12-17 13:50:19,233 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 13:50:19,236 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 13:50:19,237 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 13:50:19,237 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 13:50:19,240 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 13:50:19,263 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 13:50:19,258 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 13:50:19,244 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 13:50:19,243 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 13:50:19,241 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 13:53:33,984 INFO [{}] Test.txt
+2016-12-17 13:53:33,984 INFO [{}] Test1.txt
+2016-12-17 13:53:33,999 INFO [{}] Test8.txt
+2016-12-17 13:53:34,001 INFO [{}] Test9.txt
+2016-12-17 13:53:34,007 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 13:53:34,008 INFO [{}] Test7.txt
+2016-12-17 13:53:34,009 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 13:53:34,011 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 13:53:34,011 INFO [{}] Test6.txt
+2016-12-17 13:53:34,011 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 13:53:34,012 INFO [{}] Test5.txt
+2016-12-17 13:53:34,012 INFO [{}] Test4.txt
+2016-12-17 13:53:34,012 INFO [{}] Test3.txt
+2016-12-17 13:53:34,011 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 13:53:34,012 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 13:53:34,012 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 13:53:34,013 INFO [{}] Test2.txt
+2016-12-17 13:53:34,020 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 13:53:34,012 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 13:53:34,024 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 14:06:45,658 INFO [{}] Test2.txt
+2016-12-17 14:06:45,662 INFO [{}] Test9.txt
+2016-12-17 14:06:45,662 INFO [{}] Test8.txt
+2016-12-17 14:06:45,662 INFO [{}] Test7.txt
+2016-12-17 14:06:45,661 INFO [{}] Test6.txt
+2016-12-17 14:06:45,661 INFO [{}] Test5.txt
+2016-12-17 14:06:45,659 INFO [{}] Test4.txt
+2016-12-17 14:06:45,659 INFO [{}] Test.txt
+2016-12-17 14:06:45,658 INFO [{}] Test3.txt
+2016-12-17 14:06:45,658 INFO [{}] Test1.txt
+2016-12-17 14:06:45,766 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 14:06:45,780 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 14:06:45,780 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 14:06:45,771 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 14:06:45,767 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 14:06:45,771 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 14:06:45,770 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 14:06:45,781 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 14:06:45,842 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 14:06:45,866 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 14:07:50,497 INFO [{}] Test.txt
+2016-12-17 14:07:50,499 INFO [{}] Test9.txt
+2016-12-17 14:07:50,499 INFO [{}] Test8.txt
+2016-12-17 14:07:50,499 INFO [{}] Test7.txt
+2016-12-17 14:07:50,499 INFO [{}] Test6.txt
+2016-12-17 14:07:50,498 INFO [{}] Test5.txt
+2016-12-17 14:07:50,498 INFO [{}] Test4.txt
+2016-12-17 14:07:50,498 INFO [{}] Test3.txt
+2016-12-17 14:07:50,498 INFO [{}] Test2.txt
+2016-12-17 14:07:50,497 INFO [{}] Test1.txt
+2016-12-17 14:07:50,528 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 14:07:50,538 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 14:07:50,547 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 14:07:50,550 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 14:07:50,551 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 14:07:50,564 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 14:07:50,565 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 14:07:50,560 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 14:07:50,566 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 14:07:50,567 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 14:09:08,735 INFO [{}] Test.txt
+2016-12-17 14:09:08,737 INFO [{}] Test2.txt
+2016-12-17 14:09:08,737 INFO [{}] Test1.txt
+2016-12-17 14:09:08,739 INFO [{}] Test3.txt
+2016-12-17 14:09:08,739 INFO [{}] Test4.txt
+2016-12-17 14:09:08,739 INFO [{}] Test5.txt
+2016-12-17 14:09:08,753 INFO [{}] Test9.txt
+2016-12-17 14:09:08,753 INFO [{}] Test8.txt
+2016-12-17 14:09:08,753 INFO [{}] Test6.txt
+2016-12-17 14:09:08,753 INFO [{}] Test7.txt
+2016-12-17 14:09:08,766 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 14:09:08,768 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 14:09:08,778 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 14:09:08,791 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 14:09:08,793 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 14:09:08,798 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 14:09:08,803 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 14:09:08,816 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 14:09:08,817 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 14:09:08,821 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 14:11:13,760 INFO [{}] Test.txt
+2016-12-17 14:11:13,779 INFO [{}] Test9.txt
+2016-12-17 14:11:13,785 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 14:11:13,786 INFO [{}] Test8.txt
+2016-12-17 14:11:13,788 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 14:11:13,789 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 14:11:13,789 INFO [{}] Test7.txt
+2016-12-17 14:11:13,790 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 14:11:13,790 INFO [{}] Test6.txt
+2016-12-17 14:11:13,791 INFO [{}] Test5.txt
+2016-12-17 14:11:13,791 INFO [{}] Test4.txt
+2016-12-17 14:11:13,792 INFO [{}] Test3.txt
+2016-12-17 14:11:13,794 INFO [{}] Test2.txt
+2016-12-17 14:11:13,794 INFO [{}] Test1.txt
+2016-12-17 14:11:13,790 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 14:11:13,792 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 14:11:13,795 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 14:11:13,794 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 14:11:13,791 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 14:11:13,791 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 14:11:57,332 INFO [{}] Test1.txt
+2016-12-17 14:11:57,337 INFO [{}] Test2.txt
+2016-12-17 14:11:57,338 INFO [{}] Test4.txt
+2016-12-17 14:11:57,339 INFO [{}] Test5.txt
+2016-12-17 14:11:57,339 INFO [{}] Test3.txt
+2016-12-17 14:11:57,339 INFO [{}] Test6.txt
+2016-12-17 14:11:57,341 INFO [{}] Test7.txt
+2016-12-17 14:11:57,342 INFO [{}] Test8.txt
+2016-12-17 14:11:57,348 DEBUG [{}] checkOnRus:s: boo
+2016-12-17 14:11:57,350 DEBUG [{}] checkOnRus:nonCyr: boo
+2016-12-17 14:11:57,350 DEBUG [{}] checkOnRus:s: Агесилай II
+2016-12-17 14:11:57,353 INFO [{}] Test9.txt
+2016-12-17 14:11:57,354 DEBUG [{}] checkOnUnq:s: Регулярное выражение состоит из обычных символов
+2016-12-17 14:11:57,354 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 14:11:57,354 INFO [{}] Test.txt
+2016-12-17 14:11:57,355 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 14:11:57,356 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 14:11:57,357 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 14:11:57,355 DEBUG [{}] checkOnRus:nonCyr: Агесилай II
+2016-12-17 14:11:57,358 DEBUG [{}] checkOnRus:nonCyr: Агесилай II
+2016-12-17 14:11:57,356 DEBUG [{}] checkOnRus:s: Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами
+2016-12-17 14:11:57,359 DEBUG [{}] checkOnRus:nonCyr: Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами
+2016-12-17 14:11:57,358 DEBUG [{}] checkOnUnq:forPut: регулярное
+2016-12-17 14:11:57,360 DEBUG [{}] checkOnUnq:forPut: выражение
+2016-12-17 14:11:57,361 DEBUG [{}] checkOnRus:s: Агесилай II
+2016-12-17 14:11:57,362 DEBUG [{}] checkOnRus:nonCyr: Агесилай II
+2016-12-17 14:11:57,362 DEBUG [{}] checkOnRus:nonCyr: Агесилай II
+2016-12-17 14:11:57,358 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 14:11:57,359 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 14:11:57,363 DEBUG [{}] checkOnRus:nonCyr: Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами
+2016-12-17 14:11:57,363 DEBUG [{}] checkOnRus:nonCyr: Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами
+2016-12-17 14:11:57,364 DEBUG [{}] checkOnRus:nonCyr: Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами
+2016-12-17 14:11:57,364 DEBUG [{}] checkOnRus:nonCyr: Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами
+2016-12-17 14:11:57,362 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 14:11:57,365 DEBUG [{}] checkOnRus:nonCyr: Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами
+2016-12-17 14:11:57,365 DEBUG [{}] checkOnRus:nonCyr: Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами
+2016-12-17 14:11:57,366 DEBUG [{}] checkOnRus:nonCyr: Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами
+2016-12-17 14:11:57,366 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 14:11:57,375 DEBUG [{}] checkOnRus:s: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,376 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,377 DEBUG [{}] checkOnUnq:forPut: состоит
+2016-12-17 14:11:57,377 DEBUG [{}] checkOnUnq:forPut: из
+2016-12-17 14:11:57,378 DEBUG [{}] checkOnUnq:forPut: обычных
+2016-12-17 14:11:57,378 DEBUG [{}] checkOnUnq:forPut: символов
+2016-12-17 14:11:57,378 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 14:11:57,379 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,380 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,381 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,381 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,383 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,383 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,384 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,384 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,386 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,387 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,387 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,388 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,388 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,389 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,389 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,389 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,390 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,390 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,391 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,391 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,391 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,392 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,392 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,393 DEBUG [{}] checkOnRus:nonCyr: Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n.
+2016-12-17 14:11:57,393 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 14:13:55,692 INFO [{}] Test.txt
+2016-12-17 14:13:55,694 INFO [{}] Test7.txt
+2016-12-17 14:13:55,694 INFO [{}] Test6.txt
+2016-12-17 14:13:55,693 INFO [{}] Test5.txt
+2016-12-17 14:13:55,693 INFO [{}] Test4.txt
+2016-12-17 14:13:55,693 INFO [{}] Test3.txt
+2016-12-17 14:13:55,693 INFO [{}] Test2.txt
+2016-12-17 14:13:55,692 INFO [{}] Test1.txt
+2016-12-17 14:13:55,699 INFO [{}] Test8.txt
+2016-12-17 14:13:55,700 INFO [{}] Test9.txt
+2016-12-17 14:13:55,704 DEBUG [{}] checkOnRus:s: "Регулярное выражение состоит из обычных boo символов"
+2016-12-17 14:13:55,708 DEBUG [{}] checkOnUnq:s: "Молодая княгиня Болконская приехала с работой в шитом золотом бархатном мешке. Ее хорошенькая, с чуть черневшимися усиками верхняя губка была коротка по зубам, но тем милее она открывалась и тем еще милее вытягивалась иногда и опускалась на нижнюю. Как это всегда бывает у вполне привлекательных женщин, недостаток ее -- короткость губы и полуоткрытый рот -- казались ее особенною, собственно ее красотой. Всем было весело смотреть на эту полную здоровья и живости хорошенькую будущую мать, так легко переносившую свое положение. Старикам и скучающим мрачным молодым людям, смотревшим на нее, казалось, что они сами делаются похожи на нее, побыв и поговорив несколько времени с нею. Кто говорил с ней и видел при каждом ее слове светлую улыбочку и блестящие белые зубы, которые виднелись беспрестанно, думал, что он особенно нынче любезен. И это думал каждый. Маленькая княгиня, переваливаясь, маленькими быстрыми шажками обошла стол с рабочею сумочкой на руке и весело, оправляя платье, села на диван, около серебряного самовара, как будто все, что она ни делала, было развлечением для нее и для всех ее окружавших. "
+2016-12-17 14:13:55,713 DEBUG [{}] checkOnRus:s: "Агесилай II"
+2016-12-17 14:13:55,716 DEBUG [{}] checkOnRus:nonCyr: "Агесилай II"
+2016-12-17 14:13:55,717 DEBUG [{}] checkOnRus:nonCyr: "Агесилай II"
+2016-12-17 14:13:55,708 DEBUG [{}] checkOnRus:s: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,723 DEBUG [{}] checkOnRus:s: "Агесилай II"
+2016-12-17 14:13:55,723 DEBUG [{}] checkOnRus:nonCyr: "Агесилай II"
+2016-12-17 14:13:55,723 DEBUG [{}] checkOnRus:nonCyr: "Агесилай II"
+2016-12-17 14:13:55,724 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,725 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,726 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,726 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,727 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,728 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,728 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,729 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,729 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,730 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,730 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,731 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,731 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,732 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,732 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,732 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,733 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,733 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,734 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,734 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,734 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,735 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,735 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,735 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,736 DEBUG [{}] checkOnRus:nonCyr: "Символы новой строки, табуляции и др. определяются при помощи стандартных управляющих последовательностей, которые начинаются с обратного слеша (\). Например, символ новой строки можно задать как \n."
+2016-12-17 14:13:55,709 DEBUG [{}] checkOnUnq:s: "Вы не видали еще, или -- вы не знакомы с моей тетушкой, -- говорила Анна Павловна приезжавшим гостям и весьма серьезно подводила их к маленькой старушке в высоких бантах, выплывшей из другой комнаты, как скоро стали приезжать гости; называла их по имени, медленно переводя глаза с гостя на тетушку, и потом отходила. Все гости совершали обряд приветствия никому не известной, никому не интересной и не нужной тетушки. Анна Павловна с грустным торжественным участием следила за их приветствиями, молчаливо одобряя их. Тетушка каждому говорила в одних и тех же выражениях о его здоровье, о своем здоровье и о здоровье ее величества, которое нынче было, слава богу, лучше. Все подходившие, из приличия не выказывая поспешности, с чувством облегчения исполненной тяжелой обязанности, отходили от старушки, чтоб уж весь вечер ни разу не подойти к ней. Человек десять присутствующих мужчин и дам разместились кто у чайного стола, кто в уголку за трельяжем, кто у окна; все разговаривали и свободно переходили от одной группы к другой. "
+2016-12-17 14:13:55,737 DEBUG [{}] checkOnUnq:forPut: "вы"
+2016-12-17 14:13:55,738 DEBUG [{}] checkOnUnq:forPut: "не"
+2016-12-17 14:13:55,739 DEBUG [{}] checkOnUnq:forPut: "видали"
+2016-12-17 14:13:55,740 DEBUG [{}] checkOnUnq:forPut: "еще"
+2016-12-17 14:13:55,741 DEBUG [{}] checkOnUnq:forPut: "или"
+2016-12-17 14:13:55,741 DEBUG [{}] checkOnUnq:forPut: "вы"
+2016-12-17 14:13:55,742 DEBUG [{}] checkOnRus:s: "Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами"
+2016-12-17 14:13:55,744 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 14:13:55,742 DEBUG [{}] checkOnRus:nonCyr: "Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами"
+2016-12-17 14:13:55,749 DEBUG [{}] checkOnUnq:forPut: "молодая"
+2016-12-17 14:13:55,708 DEBUG [{}] checkOnUnq:s: "Гостиная Анны Павловны начала понемногу наполняться. "
+2016-12-17 14:13:55,750 DEBUG [{}] checkOnUnq:forPut: "княгиня"
+2016-12-17 14:13:55,750 DEBUG [{}] checkOnUnq:forPut: "гостиная"
+2016-12-17 14:13:55,751 DEBUG [{}] checkOnUnq:forPut: "анны"
+2016-12-17 14:13:55,751 DEBUG [{}] checkOnUnq:forPut: "болконская"
+2016-12-17 14:13:55,752 DEBUG [{}] checkOnUnq:forPut: "приехала"
+2016-12-17 14:13:55,753 DEBUG [{}] checkOnUnq:forPut: "с"
+2016-12-17 14:13:55,753 DEBUG [{}] checkOnUnq:forPut: "работой"
+2016-12-17 14:13:55,754 DEBUG [{}] checkOnUnq:forPut: "в"
+2016-12-17 14:13:55,755 DEBUG [{}] checkOnUnq:forPut: "шитом"
+2016-12-17 14:13:55,755 DEBUG [{}] checkOnUnq:forPut: "павловны"
+2016-12-17 14:13:55,756 DEBUG [{}] checkOnUnq:forPut: "начала"
+2016-12-17 14:13:55,756 DEBUG [{}] checkOnUnq:forPut: "понемногу"
+2016-12-17 14:13:55,756 DEBUG [{}] checkOnUnq:forPut: "наполняться"
+2016-12-17 14:13:55,757 DEBUG [{}] checkOnUnq:s: "Приехала высшая знать Петербурга, люди самые разнородные по возрастам и характерам, но одинаковые по обществу, "
+2016-12-17 14:13:55,757 DEBUG [{}] checkOnUnq:forPut: "приехала"
+2016-12-17 14:13:55,757 DEBUG [{}] checkOnUnq:forPut: "высшая"
+2016-12-17 14:13:55,757 DEBUG [{}] checkOnUnq:forPut: "знать"
+2016-12-17 14:13:55,758 DEBUG [{}] checkOnUnq:forPut: "петербурга"
+2016-12-17 14:13:55,758 DEBUG [{}] checkOnUnq:forPut: "люди"
+2016-12-17 14:13:55,758 DEBUG [{}] checkOnUnq:forPut: "самые"
+2016-12-17 14:13:55,759 DEBUG [{}] checkOnUnq:forPut: "разнородные"
+2016-12-17 14:13:55,759 DEBUG [{}] checkOnUnq:forPut: "по"
+2016-12-17 14:13:55,759 DEBUG [{}] checkOnUnq:forPut: "возрастам"
+2016-12-17 14:13:55,759 DEBUG [{}] checkOnUnq:forPut: "и"
+2016-12-17 14:13:55,760 DEBUG [{}] checkOnUnq:forPut: "характерам"
+2016-12-17 14:13:55,760 DEBUG [{}] checkOnUnq:forPut: "но"
+2016-12-17 14:13:55,760 DEBUG [{}] checkOnUnq:forPut: "одинаковые"
+2016-12-17 14:13:55,760 DEBUG [{}] checkOnUnq:forPut: "по"
+2016-12-17 14:13:55,761 ERROR [{}] Повтор слова "по" в ресурсе Test3.txt
+2016-12-17 14:13:55,742 DEBUG [{}] checkOnRus:s: "boo"
+2016-12-17 14:13:55,761 DEBUG [{}] checkOnRus:nonCyr: "boo"
+2016-12-17 14:13:55,762 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 14:13:55,742 DEBUG [{}] checkOnUnq:s: "Регулярное выражение состоит из обычных символов"
+2016-12-17 14:13:55,762 DEBUG [{}] checkOnUnq:forPut: "регулярное"
+2016-12-17 14:13:55,763 DEBUG [{}] checkOnUnq:forPut: "выражение"
+2016-12-17 14:13:55,763 DEBUG [{}] checkOnUnq:forPut: "состоит"
+2016-12-17 14:13:55,763 DEBUG [{}] checkOnUnq:forPut: "из"
+2016-12-17 14:13:55,763 DEBUG [{}] checkOnUnq:forPut: "обычных"
+2016-12-17 14:13:55,763 DEBUG [{}] checkOnUnq:forPut: "символов"
+2016-12-17 14:13:55,764 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 14:13:55,746 DEBUG [{}] checkOnRus:nonCyr: "Регулярное выражение состоит из обычных boo символов"
+2016-12-17 14:13:55,764 DEBUG [{}] checkOnRus:nonCyr: "Регулярное выражение состоит из обычных boo символов"
+2016-12-17 14:13:55,765 DEBUG [{}] checkOnRus:nonCyr: "Регулярное выражение состоит из обычных boo символов"
+2016-12-17 14:13:55,765 DEBUG [{}] checkOnRus:nonCyr: "Регулярное выражение состоит из обычных boo символов"
+2016-12-17 14:13:55,765 DEBUG [{}] checkOnRus:nonCyr: "Регулярное выражение состоит из обычных boo символов"
+2016-12-17 14:13:55,765 DEBUG [{}] checkOnRus:nonCyr: "Регулярное выражение состоит из обычных boo символов"
+2016-12-17 14:13:55,749 DEBUG [{}] checkOnRus:nonCyr: "Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами"
+2016-12-17 14:13:55,767 DEBUG [{}] checkOnRus:nonCyr: "Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами"
+2016-12-17 14:13:55,767 DEBUG [{}] checkOnRus:nonCyr: "Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами"
+2016-12-17 14:13:55,767 DEBUG [{}] checkOnRus:nonCyr: "Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами"
+2016-12-17 14:13:55,767 DEBUG [{}] checkOnRus:nonCyr: "Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами"
+2016-12-17 14:13:55,768 DEBUG [{}] checkOnRus:nonCyr: "Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами"
+2016-12-17 14:13:55,768 DEBUG [{}] checkOnRus:nonCyr: "Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами"
+2016-12-17 14:13:55,766 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 14:13:55,756 DEBUG [{}] checkOnUnq:forPut: "золотом"
+2016-12-17 14:13:55,770 DEBUG [{}] checkOnUnq:forPut: "бархатном"
+2016-12-17 14:13:55,771 DEBUG [{}] checkOnUnq:forPut: "мешке"
+2016-12-17 14:13:55,771 DEBUG [{}] checkOnUnq:forPut: "ее"
+2016-12-17 14:13:55,772 DEBUG [{}] checkOnUnq:forPut: "хорошенькая"
+2016-12-17 14:13:55,773 DEBUG [{}] checkOnUnq:forPut: "с"
+2016-12-17 14:13:55,773 ERROR [{}] Повтор слова "с" в ресурсе Test5.txt
+2016-12-17 14:13:55,766 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 14:13:55,774 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 14:13:55,769 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 14:13:55,768 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 14:16:07,267 INFO [{}] Test.txt
+2016-12-17 14:16:07,269 INFO [{}] Test9.txt
+2016-12-17 14:16:07,269 INFO [{}] Test8.txt
+2016-12-17 14:16:07,269 INFO [{}] Test7.txt
+2016-12-17 14:16:07,269 INFO [{}] Test6.txt
+2016-12-17 14:16:07,268 INFO [{}] Test5.txt
+2016-12-17 14:16:07,268 INFO [{}] Test4.txt
+2016-12-17 14:16:07,268 INFO [{}] Test3.txt
+2016-12-17 14:16:07,267 INFO [{}] Test2.txt
+2016-12-17 14:16:07,267 INFO [{}] Test1.txt
+2016-12-17 14:16:07,288 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test7.txt
+2016-12-17 14:16:07,292 ERROR [{}] Слово не на кириллице "II" в ресурсе Test8.txt
+2016-12-17 14:16:07,293 ERROR [{}] Слово не на кириллице "API" в ресурсе Test2.txt
+2016-12-17 14:16:07,294 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 14:16:07,294 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 14:16:07,296 ERROR [{}] Слово не на кириллице "II" в ресурсе Test6.txt
+2016-12-17 14:16:07,317 ERROR [{}] Повтор слова "вы" в ресурсе Test4.txt
+2016-12-17 14:16:07,318 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 14:16:07,299 ERROR [{}] Слово не на кириллице "boo" в ресурсе Test.txt
+2016-12-17 14:16:07,320 ERROR [{}] Слово не на кириллице "n" в ресурсе Test1.txt
+2016-12-17 17:14:38,338 INFO [{}] Test.txt
+2016-12-17 17:14:38,346 INFO [{}] Test9.txt
+2016-12-17 17:14:38,346 INFO [{}] Test8.txt
+2016-12-17 17:14:38,346 INFO [{}] Test7.txt
+2016-12-17 17:14:38,346 INFO [{}] Test6.txt
+2016-12-17 17:14:38,345 INFO [{}] Test5.txt
+2016-12-17 17:14:38,345 INFO [{}] Test4.txt
+2016-12-17 17:14:38,345 INFO [{}] Test3.txt
+2016-12-17 17:14:38,345 INFO [{}] Test2.txt
+2016-12-17 17:14:38,345 INFO [{}] Test1.txt
+2016-12-17 17:14:38,403 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test7.txt
+2016-12-17 17:14:38,410 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 17:14:38,407 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 17:14:38,406 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 17:14:38,432 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 17:14:38,433 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 17:14:38,454 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 17:14:38,456 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 17:14:38,457 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 17:14:38,460 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 17:18:03,695 INFO [{}] Test.txt
+2016-12-17 17:18:03,702 INFO [{}] Test2.txt
+2016-12-17 17:18:03,703 INFO [{}] Test1.txt
+2016-12-17 17:18:03,707 INFO [{}] Test9.txt
+2016-12-17 17:18:03,707 INFO [{}] Test7.txt
+2016-12-17 17:18:03,707 INFO [{}] Test8.txt
+2016-12-17 17:18:03,709 INFO [{}] Test6.txt
+2016-12-17 17:18:03,709 INFO [{}] Test5.txt
+2016-12-17 17:18:03,709 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test7.txt
+2016-12-17 17:18:03,710 INFO [{}] Test4.txt
+2016-12-17 17:18:03,711 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 17:18:03,711 INFO [{}] Test3.txt
+2016-12-17 17:18:03,711 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 17:18:03,710 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 17:18:03,715 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 17:18:03,736 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 17:18:03,709 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 17:18:03,709 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 17:18:03,733 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 17:18:03,814 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 17:18:08,484 INFO [{}] Test.txt
+2016-12-17 17:18:08,492 INFO [{}] Test9.txt
+2016-12-17 17:18:08,493 INFO [{}] Test8.txt
+2016-12-17 17:18:08,493 INFO [{}] Test7.txt
+2016-12-17 17:18:08,496 INFO [{}] Test6.txt
+2016-12-17 17:18:08,497 INFO [{}] Test5.txt
+2016-12-17 17:18:08,498 INFO [{}] Test4.txt
+2016-12-17 17:18:08,497 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test7.txt
+2016-12-17 17:18:08,498 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 17:18:08,499 INFO [{}] Test3.txt
+2016-12-17 17:18:08,500 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 17:18:08,500 INFO [{}] Test2.txt
+2016-12-17 17:18:08,500 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 17:18:08,501 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 17:18:08,501 INFO [{}] Test1.txt
+2016-12-17 17:18:08,502 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 17:18:08,502 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 17:18:08,502 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 17:18:08,499 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 17:18:08,506 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 17:18:41,290 INFO [{}] Test1.txt
+2016-12-17 17:18:41,290 INFO [{}] Test.txt
+2016-12-17 17:18:41,290 INFO [{}] Test2.txt
+2016-12-17 17:18:41,303 INFO [{}] Test9.txt
+2016-12-17 17:18:41,304 INFO [{}] Test8.txt
+2016-12-17 17:18:41,305 INFO [{}] Test7.txt
+2016-12-17 17:18:41,306 INFO [{}] Test6.txt
+2016-12-17 17:18:41,306 INFO [{}] Test5.txt
+2016-12-17 17:18:41,307 INFO [{}] Test4.txt
+2016-12-17 17:18:41,307 INFO [{}] Test3.txt
+2016-12-17 17:18:41,314 ERROR [{}] Слово не на кириллице "API". Обработка потока прервана Test2.txt
+2016-12-17 17:18:41,320 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 17:18:41,320 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 17:18:41,322 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 17:18:41,322 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 17:18:41,329 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 17:18:41,331 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 17:18:41,334 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 17:18:41,328 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 17:18:41,325 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 17:18:53,698 INFO [{}] Test4.txt
+2016-12-17 17:18:53,698 INFO [{}] Test.txt
+2016-12-17 17:18:53,698 INFO [{}] Test3.txt
+2016-12-17 17:18:53,698 INFO [{}] Test5.txt
+2016-12-17 17:18:53,698 INFO [{}] Test6.txt
+2016-12-17 17:18:53,698 INFO [{}] Test2.txt
+2016-12-17 17:18:53,720 INFO [{}] Test9.txt
+2016-12-17 17:18:53,698 INFO [{}] Test1.txt
+2016-12-17 17:18:53,719 ERROR [{}] Слово не на кириллице "II". Обработка потока прервана Test6.txt
+2016-12-17 17:18:53,721 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 17:18:53,721 INFO [{}] Test8.txt
+2016-12-17 17:18:53,719 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 17:18:53,721 INFO [{}] Test7.txt
+2016-12-17 17:18:53,722 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 17:18:53,721 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 17:18:53,723 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 17:18:53,720 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 17:18:53,728 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 17:18:53,731 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 17:18:53,737 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 17:18:58,362 INFO [{}] Test.txt
+2016-12-17 17:18:58,364 INFO [{}] Test1.txt
+2016-12-17 17:18:58,374 INFO [{}] Test2.txt
+2016-12-17 17:18:58,375 INFO [{}] Test3.txt
+2016-12-17 17:18:58,376 INFO [{}] Test4.txt
+2016-12-17 17:18:58,418 INFO [{}] Test9.txt
+2016-12-17 17:18:58,419 INFO [{}] Test8.txt
+2016-12-17 17:18:58,422 INFO [{}] Test7.txt
+2016-12-17 17:18:58,424 INFO [{}] Test6.txt
+2016-12-17 17:18:58,424 INFO [{}] Test5.txt
+2016-12-17 17:18:58,424 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 17:18:58,425 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 17:18:58,425 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test7.txt
+2016-12-17 17:18:58,433 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 17:18:58,444 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 17:18:58,450 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 17:18:58,451 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 17:18:58,452 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 17:18:58,455 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 17:18:58,458 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 17:19:02,520 INFO [{}] Test.txt
+2016-12-17 17:19:02,525 INFO [{}] Test4.txt
+2016-12-17 17:19:02,525 INFO [{}] Test3.txt
+2016-12-17 17:19:02,524 INFO [{}] Test2.txt
+2016-12-17 17:19:02,524 INFO [{}] Test1.txt
+2016-12-17 17:19:02,529 INFO [{}] Test5.txt
+2016-12-17 17:19:02,530 INFO [{}] Test6.txt
+2016-12-17 17:19:02,532 INFO [{}] Test8.txt
+2016-12-17 17:19:02,533 INFO [{}] Test9.txt
+2016-12-17 17:19:02,533 INFO [{}] Test7.txt
+2016-12-17 17:19:02,539 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 17:19:02,580 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 17:19:02,539 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 17:19:02,540 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test7.txt
+2016-12-17 17:19:02,539 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 17:19:02,581 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 17:19:02,588 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 17:19:02,589 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 17:19:02,580 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 17:19:02,591 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 17:19:06,276 INFO [{}] Test.txt
+2016-12-17 17:19:06,279 INFO [{}] Test4.txt
+2016-12-17 17:19:06,277 INFO [{}] Test3.txt
+2016-12-17 17:19:06,277 INFO [{}] Test2.txt
+2016-12-17 17:19:06,276 INFO [{}] Test1.txt
+2016-12-17 17:19:06,283 INFO [{}] Test5.txt
+2016-12-17 17:19:06,286 INFO [{}] Test9.txt
+2016-12-17 17:19:06,287 INFO [{}] Test8.txt
+2016-12-17 17:19:06,288 INFO [{}] Test7.txt
+2016-12-17 17:19:06,289 INFO [{}] Test6.txt
+2016-12-17 17:19:06,292 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test.txt
+2016-12-17 17:19:06,294 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 17:19:06,296 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 17:19:06,309 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 17:19:06,310 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 17:19:06,338 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 17:19:06,318 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 17:19:06,313 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 17:19:06,316 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 17:19:06,314 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 17:22:35,439 INFO [{}] Test.txt
+2016-12-17 17:22:35,458 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test.txt
+2016-12-17 17:23:30,002 INFO [{}] Test.txt
+2016-12-17 17:23:55,678 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test.txt
+2016-12-17 17:24:15,547 INFO [{}] Test.txt
+2016-12-17 17:24:57,493 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test.txt
+2016-12-17 17:27:39,979 INFO [{}] Test.txt
+2016-12-17 17:27:39,998 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test.txt
+2016-12-17 17:28:01,382 INFO [{}] Test.txt
+2016-12-17 17:28:01,397 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test.txt
+2016-12-17 17:28:30,921 INFO [{}] Test.txt
+2016-12-17 17:28:30,948 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test.txt
+2016-12-17 17:28:48,902 INFO [{}] Test.txt
+2016-12-17 17:28:48,924 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test.txt
+2016-12-17 17:28:48,926 INFO [{}] Test9.txt
+2016-12-17 17:28:48,927 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 17:28:48,927 INFO [{}] Test8.txt
+2016-12-17 17:28:48,927 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 17:28:48,928 INFO [{}] Test7.txt
+2016-12-17 17:28:48,928 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 17:28:48,928 INFO [{}] Test6.txt
+2016-12-17 17:28:48,929 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 17:28:48,929 INFO [{}] Test5.txt
+2016-12-17 17:28:48,929 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 17:28:48,930 INFO [{}] Test4.txt
+2016-12-17 17:28:48,930 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 17:28:48,938 INFO [{}] Test3.txt
+2016-12-17 17:28:48,939 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 17:28:48,939 INFO [{}] Test2.txt
+2016-12-17 17:28:48,939 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 17:28:48,940 INFO [{}] Test1.txt
+2016-12-17 17:28:48,940 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 17:29:14,320 INFO [{}] Test1.txt
+2016-12-17 17:29:14,323 INFO [{}] Test5.txt
+2016-12-17 17:29:14,320 INFO [{}] Test4.txt
+2016-12-17 17:29:14,320 INFO [{}] Test3.txt
+2016-12-17 17:29:14,320 INFO [{}] Test2.txt
+2016-12-17 17:29:14,320 INFO [{}] Test.txt
+2016-12-17 17:29:14,327 INFO [{}] Test6.txt
+2016-12-17 17:29:14,331 INFO [{}] Test9.txt
+2016-12-17 17:29:14,332 INFO [{}] Test8.txt
+2016-12-17 17:29:14,332 INFO [{}] Test7.txt
+2016-12-17 17:29:14,334 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test7.txt
+2016-12-17 17:29:14,336 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 17:29:14,340 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 17:29:14,336 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 17:29:14,343 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 17:29:14,351 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 17:29:14,353 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 17:29:14,378 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 17:29:14,379 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 17:29:14,352 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 17:29:20,358 INFO [{}] Test.txt
+2016-12-17 17:29:20,366 INFO [{}] Test1.txt
+2016-12-17 17:29:20,367 INFO [{}] Test2.txt
+2016-12-17 17:29:20,367 INFO [{}] Test3.txt
+2016-12-17 17:29:20,367 INFO [{}] Test4.txt
+2016-12-17 17:29:20,369 INFO [{}] Test9.txt
+2016-12-17 17:29:20,369 INFO [{}] Test8.txt
+2016-12-17 17:29:20,370 INFO [{}] Test7.txt
+2016-12-17 17:29:20,371 INFO [{}] Test6.txt
+2016-12-17 17:29:20,371 INFO [{}] Test5.txt
+2016-12-17 17:29:20,374 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 17:29:20,376 ERROR [{}] Слово не на кириллице "API". Обработка потока прервана Test2.txt
+2016-12-17 17:29:20,378 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 17:29:20,378 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 17:29:20,380 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 17:29:20,381 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 17:29:20,381 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 17:29:20,383 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 17:29:20,387 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 17:29:20,392 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:06:05,437 INFO [{}] before class
+2016-12-17 18:06:05,533 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:06:06,129 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit7526740682000232161\myfile.txt
+2016-12-17 18:06:06,148 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit7402829823620542555\myfile.txt
+2016-12-17 18:06:06,169 INFO [{}] 
+2016-12-17 18:06:06,176 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:06:06,185 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:06:06,219 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit3945054702185657413\resourceWithNoRus.txt
+2016-12-17 18:06:06,220 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit3945054702185657413\resourceWithNoRus.txt
+2016-12-17 18:06:06,270 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit6502800811164751065\resourceWithRepWords.txt
+2016-12-17 18:06:06,270 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit6502800811164751065\resourceWithRepWords.txt
+2016-12-17 18:06:06,298 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit4801981046572604962\resource.txt
+2016-12-17 18:06:06,299 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit4801981046572604962\resource.txt
+2016-12-17 18:06:06,311 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:06:40,066 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:06:40,401 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit8170844246217108333\resource.txt
+2016-12-17 18:06:40,409 INFO [{}] main: Ресурс обработан удачно C:\Users\raxis\AppData\Local\Temp\junit8170844246217108333\resource.txt
+2016-12-17 18:08:08,067 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:08:08,406 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit5599524052395991185\resource.txt
+2016-12-17 18:08:08,415 INFO [{}] main: Ресурс обработан удачно C:\Users\raxis\AppData\Local\Temp\junit5599524052395991185\resource.txt
+2016-12-17 18:08:21,885 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:08:22,251 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit1264208423616542175\resourceWithNoRus.txt
+2016-12-17 18:08:22,266 ERROR [{}] Слово не на кириллице "Stop". Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit1264208423616542175\resourceWithNoRus.txt
+2016-12-17 18:08:31,874 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:08:32,204 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit4904049481646362512\resourceWithRepWords.txt
+2016-12-17 18:08:32,214 ERROR [{}] Повтор слова "медведи". Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit4904049481646362512\resourceWithRepWords.txt
+2016-12-17 18:08:37,452 INFO [{}] before class
+2016-12-17 18:08:37,507 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:08:37,772 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit7338531266058142075\myfile.txt
+2016-12-17 18:08:37,782 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit182818367419573533\myfile.txt
+2016-12-17 18:08:37,792 INFO [{}] 
+2016-12-17 18:08:37,798 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:08:37,799 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:08:37,841 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit5957513683549618326\resourceWithNoRus.txt
+2016-12-17 18:08:37,842 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit5957513683549618326\resourceWithNoRus.txt
+2016-12-17 18:08:37,871 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit4513439767312139196\resourceWithRepWords.txt
+2016-12-17 18:08:37,872 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit4513439767312139196\resourceWithRepWords.txt
+2016-12-17 18:08:37,892 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit7174474224945409252\resource.txt
+2016-12-17 18:08:37,892 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit7174474224945409252\resource.txt
+2016-12-17 18:08:37,899 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:12:43,911 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:13:12,212 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:13:28,297 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:14:55,439 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:14:59,992 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:15:05,868 INFO [{}] before class
+2016-12-17 18:15:05,939 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:15:06,172 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit418479666447406857\myfile.txt
+2016-12-17 18:15:06,180 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit8478561737870933511\myfile.txt
+2016-12-17 18:15:06,191 INFO [{}] 
+2016-12-17 18:15:06,196 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:15:06,202 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:15:06,240 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit6237429365432147005\resourceWithNoRus.txt
+2016-12-17 18:15:06,241 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit6237429365432147005\resourceWithNoRus.txt
+2016-12-17 18:15:06,268 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit8558420543069430710\resourceWithRepWords.txt
+2016-12-17 18:15:06,269 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit8558420543069430710\resourceWithRepWords.txt
+2016-12-17 18:15:06,287 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit8585177636092051451\resource.txt
+2016-12-17 18:15:06,288 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit8585177636092051451\resource.txt
+2016-12-17 18:15:06,293 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:15:29,790 INFO [{}] before class
+2016-12-17 18:15:29,852 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:15:30,259 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit2141408249234140465\myfile.txt
+2016-12-17 18:15:30,275 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit5384301673884071146\myfile.txt
+2016-12-17 18:15:30,302 INFO [{}] 
+2016-12-17 18:15:30,306 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:15:30,366 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:15:30,489 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit6526265128010289885\resourceWithNoRus.txt
+2016-12-17 18:15:30,490 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit6526265128010289885\resourceWithNoRus.txt
+2016-12-17 18:15:30,560 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit4310650396872672205\resourceWithRepWords.txt
+2016-12-17 18:15:30,561 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit4310650396872672205\resourceWithRepWords.txt
+2016-12-17 18:15:38,586 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit5835740793421524797\resource.txt
+2016-12-17 18:15:38,587 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit5835740793421524797\resource.txt
+2016-12-17 18:16:17,825 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:16:51,850 INFO [{}] before class
+2016-12-17 18:16:51,931 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:16:52,278 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit1511285794771365545\myfile.txt
+2016-12-17 18:16:52,340 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit6242493062820227684\myfile.txt
+2016-12-17 18:16:52,369 INFO [{}] 
+2016-12-17 18:16:52,387 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:16:52,398 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:16:52,426 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit9158509528020830961\resourceWithNoRus.txt
+2016-12-17 18:16:52,426 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit9158509528020830961\resourceWithNoRus.txt
+2016-12-17 18:16:52,541 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit3193843778031216156\resourceWithRepWords.txt
+2016-12-17 18:16:52,542 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit3193843778031216156\resourceWithRepWords.txt
+2016-12-17 18:16:56,925 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit3681683478936898552\resource.txt
+2016-12-17 18:16:56,925 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit3681683478936898552\resource.txt
+2016-12-17 18:16:56,931 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:17:06,229 INFO [{}] before class
+2016-12-17 18:17:06,304 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:17:06,598 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit6095457612952276348\myfile.txt
+2016-12-17 18:17:06,658 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit4173419198448514273\myfile.txt
+2016-12-17 18:17:06,695 INFO [{}] 
+2016-12-17 18:17:06,699 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:17:06,702 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:17:06,730 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit3642763019439990005\resourceWithNoRus.txt
+2016-12-17 18:17:06,731 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit3642763019439990005\resourceWithNoRus.txt
+2016-12-17 18:17:06,777 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit2083610899814633510\resourceWithRepWords.txt
+2016-12-17 18:17:06,778 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit2083610899814633510\resourceWithRepWords.txt
+2016-12-17 18:17:22,108 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit7596276046586544329\resource.txt
+2016-12-17 18:17:30,312 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit7596276046586544329\resource.txt
+2016-12-17 18:17:34,611 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:18:17,789 INFO [{}] before class
+2016-12-17 18:18:17,851 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:18:18,407 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit1921630994145847276\myfile.txt
+2016-12-17 18:18:18,537 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit1623181394811388259\myfile.txt
+2016-12-17 18:18:18,675 INFO [{}] 
+2016-12-17 18:18:18,774 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:18:18,805 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:18:18,967 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit2869923374035017252\resourceWithNoRus.txt
+2016-12-17 18:18:18,967 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit2869923374035017252\resourceWithNoRus.txt
+2016-12-17 18:18:19,021 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit1284855758591578166\resourceWithRepWords.txt
+2016-12-17 18:18:19,022 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit1284855758591578166\resourceWithRepWords.txt
+2016-12-17 18:19:23,806 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit2504668887748148586\resource.txt
+2016-12-17 18:19:53,504 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit2504668887748148586\resource.txt
+2016-12-17 18:19:53,513 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:27:35,736 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:28:10,900 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:28:11,260 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit1418106460935419882\resource.txt
+2016-12-17 18:28:11,262 ERROR [{}] Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit1418106460935419882\resource.txt
+2016-12-17 18:28:25,760 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:28:26,079 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit5114581868043951645\resource.txt
+2016-12-17 18:28:26,088 INFO [{}] main: Ресурс обработан удачно C:\Users\raxis\AppData\Local\Temp\junit5114581868043951645\resource.txt
+2016-12-17 18:29:39,635 INFO [{}] before class
+2016-12-17 18:29:39,688 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:29:39,940 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit919973891660939122\myfile.txt
+2016-12-17 18:29:39,955 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit2360083068574692662\myfile.txt
+2016-12-17 18:29:39,971 INFO [{}] 
+2016-12-17 18:29:39,977 INFO [{}] Start tests for class "Monitor"
+2016-12-17 18:29:39,980 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 18:29:40,007 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit1737206232437530707\resourceWithNoRus.txt
+2016-12-17 18:29:40,009 ERROR [{}] Слово не на кириллице "Stop". Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit1737206232437530707\resourceWithNoRus.txt
+2016-12-17 18:29:40,027 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit4979738393982078196\resourceWithRepWords.txt
+2016-12-17 18:29:40,029 ERROR [{}] Повтор слова "медведи". Обработка потока прервана C:\Users\raxis\AppData\Local\Temp\junit4979738393982078196\resourceWithRepWords.txt
+2016-12-17 18:29:40,047 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit3965732989801064621\resource.txt
+2016-12-17 18:29:40,048 INFO [{}] main: Ресурс обработан удачно C:\Users\raxis\AppData\Local\Temp\junit3965732989801064621\resource.txt
+2016-12-17 18:29:40,054 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 18:34:13,481 INFO [{}] Test.txt
+2016-12-17 18:34:13,484 INFO [{}] Test9.txt
+2016-12-17 18:34:13,483 INFO [{}] Test8.txt
+2016-12-17 18:34:13,483 INFO [{}] Test7.txt
+2016-12-17 18:34:13,483 INFO [{}] Test6.txt
+2016-12-17 18:34:13,483 INFO [{}] Test5.txt
+2016-12-17 18:34:13,482 INFO [{}] Test4.txt
+2016-12-17 18:34:13,482 INFO [{}] Test3.txt
+2016-12-17 18:34:13,482 INFO [{}] Test2.txt
+2016-12-17 18:34:13,481 INFO [{}] Test1.txt
+2016-12-17 18:34:13,506 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 18:34:13,510 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test7.txt
+2016-12-17 18:34:13,512 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 18:34:13,515 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 18:34:13,524 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:34:13,524 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 18:34:13,534 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:34:13,535 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:34:13,536 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:34:13,543 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:37:01,068 INFO [{}] Test2.txt
+2016-12-17 18:37:01,072 INFO [{}] Test9.txt
+2016-12-17 18:37:01,072 INFO [{}] Test8.txt
+2016-12-17 18:37:01,071 INFO [{}] Test7.txt
+2016-12-17 18:37:01,071 INFO [{}] Test6.txt
+2016-12-17 18:37:01,071 INFO [{}] Test5.txt
+2016-12-17 18:37:01,071 INFO [{}] Test4.txt
+2016-12-17 18:37:01,070 INFO [{}] Test1.txt
+2016-12-17 18:37:01,128 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:37:01,070 INFO [{}] Test3.txt
+2016-12-17 18:37:01,070 INFO [{}] Test.txt
+2016-12-17 18:37:01,127 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 18:37:01,123 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:37:01,121 ERROR [{}] Слово не на кириллице "API". Обработка потока прервана Test2.txt
+2016-12-17 18:37:01,133 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:37:01,146 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 18:37:01,142 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:37:01,136 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 18:37:01,136 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:37:01,135 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 18:37:50,172 INFO [{}] Test.txt
+2016-12-17 18:37:50,176 INFO [{}] Test6.txt
+2016-12-17 18:37:50,175 INFO [{}] Test5.txt
+2016-12-17 18:37:50,174 INFO [{}] Test4.txt
+2016-12-17 18:37:50,174 INFO [{}] Test3.txt
+2016-12-17 18:37:50,174 INFO [{}] Test2.txt
+2016-12-17 18:37:50,173 INFO [{}] Test1.txt
+2016-12-17 18:37:50,185 INFO [{}] Test9.txt
+2016-12-17 18:37:50,185 INFO [{}] Test8.txt
+2016-12-17 18:37:50,186 INFO [{}] Test7.txt
+2016-12-17 18:37:50,191 ERROR [{}] Слово не на кириллице "II". Обработка потока прервана Test6.txt
+2016-12-17 18:37:50,196 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:37:50,197 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 18:37:50,202 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 18:37:50,203 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 18:37:50,205 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:37:50,224 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 18:37:50,218 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:37:50,213 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 18:37:50,213 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:37:54,298 INFO [{}] Test.txt
+2016-12-17 18:37:54,306 INFO [{}] Test1.txt
+2016-12-17 18:37:54,309 INFO [{}] Test2.txt
+2016-12-17 18:37:54,312 INFO [{}] Test9.txt
+2016-12-17 18:37:54,316 INFO [{}] Test8.txt
+2016-12-17 18:37:54,317 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:37:54,319 INFO [{}] Test7.txt
+2016-12-17 18:37:54,320 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 18:37:54,320 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test.txt
+2016-12-17 18:37:54,321 INFO [{}] Test6.txt
+2016-12-17 18:37:54,321 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:37:54,322 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 18:37:54,322 INFO [{}] Test5.txt
+2016-12-17 18:37:54,323 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:37:54,323 INFO [{}] Test4.txt
+2016-12-17 18:37:54,323 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:37:54,325 INFO [{}] Test3.txt
+2016-12-17 18:37:54,325 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 18:37:54,334 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 18:37:54,339 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:37:58,089 INFO [{}] Test.txt
+2016-12-17 18:37:58,095 INFO [{}] Test1.txt
+2016-12-17 18:37:58,104 INFO [{}] Test9.txt
+2016-12-17 18:37:58,105 INFO [{}] Test8.txt
+2016-12-17 18:37:58,115 ERROR [{}] Слово не на кириллице "n". Обработка потока прервана Test1.txt
+2016-12-17 18:37:58,117 INFO [{}] Test7.txt
+2016-12-17 18:37:58,117 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 18:37:58,118 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 18:37:58,121 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:37:58,126 INFO [{}] Test6.txt
+2016-12-17 18:37:58,126 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:37:58,128 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 18:37:58,128 INFO [{}] Test5.txt
+2016-12-17 18:37:58,129 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:37:58,129 INFO [{}] Test4.txt
+2016-12-17 18:37:58,130 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:37:58,130 INFO [{}] Test3.txt
+2016-12-17 18:37:58,130 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 18:37:58,133 INFO [{}] Test2.txt
+2016-12-17 18:37:58,134 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 18:38:30,111 INFO [{}] Test.txt
+2016-12-17 18:38:30,113 INFO [{}] Test5.txt
+2016-12-17 18:38:30,113 INFO [{}] Test4.txt
+2016-12-17 18:38:30,113 INFO [{}] Test3.txt
+2016-12-17 18:38:30,113 INFO [{}] Test2.txt
+2016-12-17 18:38:30,113 INFO [{}] Test1.txt
+2016-12-17 18:38:30,117 INFO [{}] Test6.txt
+2016-12-17 18:38:30,119 INFO [{}] Test7.txt
+2016-12-17 18:38:30,119 INFO [{}] Test8.txt
+2016-12-17 18:38:30,121 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test7.txt
+2016-12-17 18:38:30,123 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:38:30,124 INFO [{}] Test9.txt
+2016-12-17 18:38:30,125 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 18:38:30,125 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 18:38:30,130 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:38:30,134 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 18:38:30,143 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:38:30,145 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 18:38:30,141 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:38:30,141 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:38:33,660 INFO [{}] Test.txt
+2016-12-17 18:38:33,666 INFO [{}] Test1.txt
+2016-12-17 18:38:33,668 INFO [{}] Test2.txt
+2016-12-17 18:38:33,668 INFO [{}] Test3.txt
+2016-12-17 18:38:33,669 INFO [{}] Test4.txt
+2016-12-17 18:38:33,670 INFO [{}] Test5.txt
+2016-12-17 18:38:33,672 INFO [{}] Test9.txt
+2016-12-17 18:38:33,672 INFO [{}] Test8.txt
+2016-12-17 18:38:33,673 INFO [{}] Test6.txt
+2016-12-17 18:38:33,673 INFO [{}] Test7.txt
+2016-12-17 18:38:33,682 ERROR [{}] Слово не на кириллице "II". Обработка потока прервана Test8.txt
+2016-12-17 18:38:33,686 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 18:38:33,687 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 18:38:33,690 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:38:33,691 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 18:38:33,692 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:38:33,692 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:38:33,696 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 18:38:33,697 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 18:38:33,698 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:38:37,130 INFO [{}] Test.txt
+2016-12-17 18:38:37,173 INFO [{}] Test9.txt
+2016-12-17 18:38:37,180 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test.txt
+2016-12-17 18:38:37,197 INFO [{}] Test8.txt
+2016-12-17 18:38:37,197 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:38:37,199 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 18:38:37,200 INFO [{}] Test7.txt
+2016-12-17 18:38:37,200 INFO [{}] Test6.txt
+2016-12-17 18:38:37,201 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 18:38:37,201 INFO [{}] Test5.txt
+2016-12-17 18:38:37,201 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:38:37,201 INFO [{}] Test4.txt
+2016-12-17 18:38:37,201 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:38:37,201 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:38:37,201 INFO [{}] Test3.txt
+2016-12-17 18:38:37,201 INFO [{}] Test2.txt
+2016-12-17 18:38:37,202 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 18:38:37,202 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 18:38:37,202 INFO [{}] Test1.txt
+2016-12-17 18:38:37,202 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:38:40,242 INFO [{}] Test.txt
+2016-12-17 18:38:40,283 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test.txt
+2016-12-17 18:38:40,293 INFO [{}] Test9.txt
+2016-12-17 18:38:40,293 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 18:38:40,293 INFO [{}] Test8.txt
+2016-12-17 18:38:40,294 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:38:40,296 INFO [{}] Test7.txt
+2016-12-17 18:38:40,296 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 18:38:40,297 INFO [{}] Test6.txt
+2016-12-17 18:38:40,297 INFO [{}] Test5.txt
+2016-12-17 18:38:40,297 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:38:40,297 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:38:40,297 INFO [{}] Test4.txt
+2016-12-17 18:38:40,297 INFO [{}] Test3.txt
+2016-12-17 18:38:40,298 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 18:38:40,298 INFO [{}] Test2.txt
+2016-12-17 18:38:40,299 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 18:38:40,297 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:38:40,299 INFO [{}] Test1.txt
+2016-12-17 18:38:40,299 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:38:43,566 INFO [{}] Test2.txt
+2016-12-17 18:38:43,566 INFO [{}] Test3.txt
+2016-12-17 18:38:43,566 INFO [{}] Test1.txt
+2016-12-17 18:38:43,566 INFO [{}] Test.txt
+2016-12-17 18:38:43,584 INFO [{}] Test9.txt
+2016-12-17 18:38:43,584 INFO [{}] Test8.txt
+2016-12-17 18:38:43,585 INFO [{}] Test7.txt
+2016-12-17 18:38:43,586 INFO [{}] Test6.txt
+2016-12-17 18:38:43,586 INFO [{}] Test5.txt
+2016-12-17 18:38:43,587 INFO [{}] Test4.txt
+2016-12-17 18:38:43,600 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 18:38:43,601 ERROR [{}] Повтор слова "по". Обработка потока прервана Test3.txt
+2016-12-17 18:38:43,601 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 18:38:43,602 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:38:43,604 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:38:43,616 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:38:43,618 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 18:38:43,619 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:38:43,628 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:38:43,629 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 18:41:58,740 INFO [{}] Test1.txt
+2016-12-17 18:41:58,742 INFO [{}] Test9.txt
+2016-12-17 18:41:58,752 INFO [{}] Test5.txt
+2016-12-17 18:41:58,742 INFO [{}] Test2.txt
+2016-12-17 18:41:58,789 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 18:41:58,742 INFO [{}] Test3.txt
+2016-12-17 18:41:58,792 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 18:41:58,742 INFO [{}] Test4.txt
+2016-12-17 18:41:58,742 INFO [{}] Test6.txt
+2016-12-17 18:41:58,742 INFO [{}] Test5.txt
+2016-12-17 18:41:58,793 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:41:58,794 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:41:58,742 INFO [{}] Test7.txt
+2016-12-17 18:41:58,798 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:41:58,742 INFO [{}] Test8.txt
+2016-12-17 18:41:58,814 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:41:58,742 INFO [{}] Test9.txt
+2016-12-17 18:41:58,742 INFO [{}] Test1.txt
+2016-12-17 18:41:58,742 INFO [{}] Test7.txt
+2016-12-17 18:41:58,815 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:41:58,742 INFO [{}] Test.txt
+2016-12-17 18:41:58,817 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 18:41:58,742 INFO [{}] Test4.txt
+2016-12-17 18:41:58,818 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:41:58,742 INFO [{}] Test6.txt
+2016-12-17 18:41:58,818 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:41:58,742 INFO [{}] Test2.txt
+2016-12-17 18:41:58,819 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 18:41:58,742 INFO [{}] Test3.txt
+2016-12-17 18:41:58,820 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 18:41:58,742 INFO [{}] Test8.txt
+2016-12-17 18:41:58,821 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:41:58,816 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 18:41:58,815 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 18:41:58,813 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:41:58,802 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 18:41:58,791 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:41:58,791 ERROR [{}] Слово не на кириллице "API". Обработка потока прервана Test2.txt
+2016-12-17 18:42:09,918 INFO [{}] Test.txt
+2016-12-17 18:42:09,926 INFO [{}] Test1.txt
+2016-12-17 18:42:09,926 INFO [{}] Test2.txt
+2016-12-17 18:42:09,929 INFO [{}] Test3.txt
+2016-12-17 18:42:09,931 INFO [{}] Test8.txt
+2016-12-17 18:42:09,931 INFO [{}] Test9.txt
+2016-12-17 18:42:09,932 INFO [{}] Test7.txt
+2016-12-17 18:42:09,933 INFO [{}] Test6.txt
+2016-12-17 18:42:09,933 INFO [{}] Test5.txt
+2016-12-17 18:42:09,934 INFO [{}] Test4.txt
+2016-12-17 18:42:09,938 ERROR [{}] Слово не на кириллице "API". Обработка потока прервана Test2.txt
+2016-12-17 18:42:09,952 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:42:09,952 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:42:09,953 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:42:09,954 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:42:09,955 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 18:42:09,955 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 18:42:09,956 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:42:09,956 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 18:42:09,959 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 18:58:32,079 INFO [{}] Test.txt
+2016-12-17 18:58:32,081 INFO [{}] Test3.txt
+2016-12-17 18:58:32,080 INFO [{}] Test2.txt
+2016-12-17 18:58:32,079 INFO [{}] Test1.txt
+2016-12-17 18:58:32,086 INFO [{}] Test4.txt
+2016-12-17 18:58:32,087 INFO [{}] Test5.txt
+2016-12-17 18:58:32,090 INFO [{}] Test9.txt
+2016-12-17 18:58:32,090 INFO [{}] Test8.txt
+2016-12-17 18:58:32,091 INFO [{}] Test7.txt
+2016-12-17 18:58:32,091 INFO [{}] Test6.txt
+2016-12-17 18:58:32,095 ERROR [{}] Слово не на кириллице "boo". Обработка потока прервана Test.txt
+2016-12-17 18:58:32,097 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 18:58:32,097 ERROR [{}] Обработка потока прервана Test7.txt
+2016-12-17 18:58:32,102 ERROR [{}] Обработка потока прервана Test9.txt
+2016-12-17 18:58:32,099 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 18:58:32,133 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 18:58:32,126 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 18:58:32,125 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 18:58:32,109 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 18:58:32,102 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 20:25:29,962 INFO [{}] Test.txt
+2016-12-17 20:25:29,996 INFO [{}] Test9.txt
+2016-12-17 20:25:29,996 INFO [{}] Test8.txt
+2016-12-17 20:25:29,996 INFO [{}] Test7.txt
+2016-12-17 20:25:29,995 INFO [{}] Test6.txt
+2016-12-17 20:25:29,986 INFO [{}] Test5.txt
+2016-12-17 20:25:29,973 INFO [{}] Test4.txt
+2016-12-17 20:25:29,973 INFO [{}] Test3.txt
+2016-12-17 20:25:29,972 INFO [{}] Test2.txt
+2016-12-17 20:25:29,972 INFO [{}] Test1.txt
+2016-12-17 20:25:30,043 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 20:25:30,127 ERROR [{}] Обработка потока прервана Test.txt
+2016-12-17 20:25:30,126 ERROR [{}] Обработка потока прервана Test1.txt
+2016-12-17 20:25:30,061 ERROR [{}] Обработка потока прервана Test2.txt
+2016-12-17 20:25:30,051 ERROR [{}] Обработка потока прервана Test3.txt
+2016-12-17 20:25:30,049 ERROR [{}] Обработка потока прервана Test4.txt
+2016-12-17 20:25:30,044 ERROR [{}] Обработка потока прервана Test5.txt
+2016-12-17 20:25:30,043 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 20:25:30,160 ERROR [{}] Обработка потока прервана Test8.txt
+2016-12-17 20:25:30,181 ERROR [{}] Обработка потока прервана Test6.txt
+2016-12-17 20:31:04,365 INFO [{}] Test.txt
+2016-12-17 20:31:04,375 INFO [{}] Test1.txt
+2016-12-17 20:31:04,375 INFO [{}] Test2.txt
+2016-12-17 20:31:04,376 INFO [{}] Test3.txt
+2016-12-17 20:31:04,382 INFO [{}] Test4.txt
+2016-12-17 20:31:04,383 INFO [{}] Test5.txt
+2016-12-17 20:31:04,384 INFO [{}] Test6.txt
+2016-12-17 20:31:04,396 INFO [{}] Test9.txt
+2016-12-17 20:31:04,397 INFO [{}] Test8.txt
+2016-12-17 20:31:04,401 INFO [{}] Test7.txt
+2016-12-17 20:31:04,416 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 20:31:04,418 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 20:31:04,418 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 20:31:04,428 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 20:31:04,429 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 20:31:04,428 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 20:31:04,431 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 20:31:04,431 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 20:31:04,431 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 20:31:04,430 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:35:16,785 INFO [{}] Test.txt
+2016-12-17 20:35:16,807 INFO [{}] Test1.txt
+2016-12-17 20:35:16,812 INFO [{}] Test2.txt
+2016-12-17 20:35:16,821 INFO [{}] Test9.txt
+2016-12-17 20:35:16,822 INFO [{}] Test8.txt
+2016-12-17 20:35:16,822 INFO [{}] Test7.txt
+2016-12-17 20:35:16,822 INFO [{}] Test6.txt
+2016-12-17 20:35:16,826 INFO [{}] Test5.txt
+2016-12-17 20:35:16,829 INFO [{}] Test4.txt
+2016-12-17 20:35:16,830 INFO [{}] Test3.txt
+2016-12-17 20:35:16,832 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:35:16,835 ERROR [{}] Обработка ресурса прервана Test5.txt
+2016-12-17 20:35:16,836 ERROR [{}] Обработка ресурса прервана Test3.txt
+2016-12-17 20:35:16,838 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 20:35:16,838 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 20:35:16,841 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 20:35:16,840 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 20:35:16,839 ERROR [{}] Обработка ресурса прервана Test4.txt
+2016-12-17 20:35:16,839 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 20:35:16,854 ERROR [{}] Обработка ресурса прервана Test7.txt
+2016-12-17 20:35:22,760 INFO [{}] Test.txt
+2016-12-17 20:35:22,772 INFO [{}] Test1.txt
+2016-12-17 20:35:22,772 INFO [{}] Test2.txt
+2016-12-17 20:35:22,773 INFO [{}] Test3.txt
+2016-12-17 20:35:22,774 INFO [{}] Test4.txt
+2016-12-17 20:35:22,783 INFO [{}] Test8.txt
+2016-12-17 20:35:22,783 INFO [{}] Test9.txt
+2016-12-17 20:35:22,783 INFO [{}] Test5.txt
+2016-12-17 20:35:22,783 INFO [{}] Test6.txt
+2016-12-17 20:35:22,783 INFO [{}] Test7.txt
+2016-12-17 20:35:22,790 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:35:22,792 ERROR [{}] Обработка ресурса прервана Test6.txt
+2016-12-17 20:35:22,793 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 20:35:22,793 ERROR [{}] Обработка ресурса прервана Test8.txt
+2016-12-17 20:35:22,797 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 20:35:22,797 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 20:35:22,803 INFO [{}] uthread782063684: Ресурс обработан удачно Test4.txt
+2016-12-17 20:35:22,804 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 20:35:22,815 INFO [{}] uthread782987205: Ресурс обработан удачно Test5.txt
+2016-12-17 20:35:22,818 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 20:35:29,058 INFO [{}] Test.txt
+2016-12-17 20:35:29,074 INFO [{}] Test1.txt
+2016-12-17 20:35:29,090 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:35:29,090 INFO [{}] Test9.txt
+2016-12-17 20:35:29,090 ERROR [{}] Обработка ресурса прервана Test9.txt
+2016-12-17 20:35:29,090 INFO [{}] Test8.txt
+2016-12-17 20:35:29,090 ERROR [{}] Обработка ресурса прервана Test8.txt
+2016-12-17 20:35:29,090 INFO [{}] Test7.txt
+2016-12-17 20:35:29,090 ERROR [{}] Обработка ресурса прервана Test7.txt
+2016-12-17 20:35:29,090 INFO [{}] Test6.txt
+2016-12-17 20:35:29,090 ERROR [{}] Обработка ресурса прервана Test6.txt
+2016-12-17 20:35:29,090 INFO [{}] Test5.txt
+2016-12-17 20:35:29,090 ERROR [{}] Обработка ресурса прервана Test5.txt
+2016-12-17 20:35:29,090 INFO [{}] Test4.txt
+2016-12-17 20:35:29,090 ERROR [{}] Обработка ресурса прервана Test4.txt
+2016-12-17 20:35:29,109 INFO [{}] Test3.txt
+2016-12-17 20:35:29,109 ERROR [{}] Обработка ресурса прервана Test3.txt
+2016-12-17 20:35:29,110 INFO [{}] Test2.txt
+2016-12-17 20:35:29,110 ERROR [{}] Обработка ресурса прервана Test2.txt
+2016-12-17 20:35:29,112 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 20:35:32,633 INFO [{}] Test.txt
+2016-12-17 20:35:32,633 INFO [{}] Test1.txt
+2016-12-17 20:35:32,633 INFO [{}] Test2.txt
+2016-12-17 20:35:32,633 INFO [{}] Test4.txt
+2016-12-17 20:35:32,633 INFO [{}] Test3.txt
+2016-12-17 20:35:32,633 INFO [{}] Test5.txt
+2016-12-17 20:35:32,633 INFO [{}] Test6.txt
+2016-12-17 20:35:32,633 INFO [{}] Test7.txt
+2016-12-17 20:35:32,648 INFO [{}] Test8.txt
+2016-12-17 20:35:32,648 INFO [{}] Test9.txt
+2016-12-17 20:35:32,648 ERROR [{}] Обработка ресурса прервана Test8.txt
+2016-12-17 20:35:32,648 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 20:35:32,648 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 20:35:32,648 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 20:35:32,648 ERROR [{}] Обработка ресурса прервана Test9.txt
+2016-12-17 20:35:32,648 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 20:35:32,664 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:35:32,664 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 20:35:32,664 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 20:35:32,664 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 20:35:36,602 INFO [{}] Test.txt
+2016-12-17 20:35:36,618 INFO [{}] Test8.txt
+2016-12-17 20:35:36,618 INFO [{}] Test7.txt
+2016-12-17 20:35:36,618 INFO [{}] Test9.txt
+2016-12-17 20:35:36,633 INFO [{}] Test6.txt
+2016-12-17 20:35:36,633 INFO [{}] Test5.txt
+2016-12-17 20:35:36,633 INFO [{}] Test4.txt
+2016-12-17 20:35:36,633 INFO [{}] Test3.txt
+2016-12-17 20:35:36,633 INFO [{}] Test2.txt
+2016-12-17 20:35:36,633 INFO [{}] Test1.txt
+2016-12-17 20:35:36,633 ERROR [{}] Обработка ресурса прервана Test1.txt
+2016-12-17 20:35:36,633 ERROR [{}] Обработка ресурса прервана Test9.txt
+2016-12-17 20:35:36,633 ERROR [{}] Обработка ресурса прервана Test5.txt
+2016-12-17 20:35:36,633 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:35:36,633 ERROR [{}] Обработка ресурса прервана Test3.txt
+2016-12-17 20:35:36,633 ERROR [{}] Обработка ресурса прервана Test6.txt
+2016-12-17 20:35:36,633 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 20:35:36,633 ERROR [{}] Обработка ресурса прервана Test2.txt
+2016-12-17 20:35:36,633 ERROR [{}] Обработка ресурса прервана Test7.txt
+2016-12-17 20:35:36,633 ERROR [{}] Обработка ресурса прервана Test4.txt
+2016-12-17 20:35:40,199 INFO [{}] Test.txt
+2016-12-17 20:35:40,201 INFO [{}] Test2.txt
+2016-12-17 20:35:40,201 INFO [{}] Test1.txt
+2016-12-17 20:35:40,214 INFO [{}] Test9.txt
+2016-12-17 20:35:40,216 INFO [{}] Test8.txt
+2016-12-17 20:35:40,219 INFO [{}] Test7.txt
+2016-12-17 20:35:40,221 INFO [{}] Test6.txt
+2016-12-17 20:35:40,223 INFO [{}] Test5.txt
+2016-12-17 20:35:40,233 INFO [{}] Test4.txt
+2016-12-17 20:35:40,234 INFO [{}] Test3.txt
+2016-12-17 20:35:40,232 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 20:35:40,236 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 20:35:40,234 ERROR [{}] Обработка ресурса прервана Test3.txt
+2016-12-17 20:35:40,238 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 20:35:40,239 ERROR [{}] Обработка ресурса прервана Test6.txt
+2016-12-17 20:35:40,233 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:35:40,239 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 20:35:40,233 ERROR [{}] Обработка ресурса прервана Test4.txt
+2016-12-17 20:35:40,233 ERROR [{}] Обработка ресурса прервана Test5.txt
+2016-12-17 20:35:40,239 ERROR [{}] Обработка ресурса прервана Test7.txt
+2016-12-17 20:35:45,140 INFO [{}] Test.txt
+2016-12-17 20:35:45,140 INFO [{}] Test5.txt
+2016-12-17 20:35:45,140 INFO [{}] Test4.txt
+2016-12-17 20:35:45,140 INFO [{}] Test3.txt
+2016-12-17 20:35:45,140 INFO [{}] Test2.txt
+2016-12-17 20:35:45,140 INFO [{}] Test1.txt
+2016-12-17 20:35:45,155 INFO [{}] Test7.txt
+2016-12-17 20:35:45,155 INFO [{}] Test8.txt
+2016-12-17 20:35:45,155 INFO [{}] Test6.txt
+2016-12-17 20:35:45,171 INFO [{}] Test9.txt
+2016-12-17 20:35:45,186 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 20:35:45,186 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 20:35:45,186 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 20:35:45,206 INFO [{}] uthread782063684: Ресурс обработан удачно Test4.txt
+2016-12-17 20:35:45,207 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:35:45,207 ERROR [{}] Обработка ресурса прервана Test6.txt
+2016-12-17 20:35:45,208 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 20:35:45,208 ERROR [{}] Обработка ресурса прервана Test9.txt
+2016-12-17 20:35:45,209 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 20:35:45,209 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 20:40:16,023 INFO [{}] Test3.txt
+2016-12-17 20:40:16,023 INFO [{}] Test.txt
+2016-12-17 20:40:16,023 INFO [{}] Test1.txt
+2016-12-17 20:40:16,023 INFO [{}] Test2.txt
+2016-12-17 20:40:16,038 INFO [{}] Test4.txt
+2016-12-17 20:40:16,038 INFO [{}] Test5.txt
+2016-12-17 20:40:16,038 INFO [{}] Test6.txt
+2016-12-17 20:40:16,054 INFO [{}] Test9.txt
+2016-12-17 20:40:16,054 INFO [{}] Test8.txt
+2016-12-17 20:40:16,054 INFO [{}] Test7.txt
+2016-12-17 20:40:16,054 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 20:40:16,070 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 20:40:16,070 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 20:40:16,054 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 20:40:16,085 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 20:40:16,101 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:40:16,054 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 20:40:16,101 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 20:40:16,101 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 20:40:16,101 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 20:40:19,773 INFO [{}] Test.txt
+2016-12-17 20:40:19,773 INFO [{}] Test1.txt
+2016-12-17 20:40:19,789 INFO [{}] Test9.txt
+2016-12-17 20:40:19,789 INFO [{}] Test8.txt
+2016-12-17 20:40:19,805 INFO [{}] Test7.txt
+2016-12-17 20:40:19,789 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 20:40:19,805 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 20:40:19,805 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:40:19,805 INFO [{}] Test6.txt
+2016-12-17 20:40:19,805 ERROR [{}] Обработка ресурса прервана Test6.txt
+2016-12-17 20:40:19,805 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 20:40:19,805 INFO [{}] Test5.txt
+2016-12-17 20:40:19,805 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 20:40:19,805 INFO [{}] Test4.txt
+2016-12-17 20:40:19,805 ERROR [{}] Обработка ресурса прервана Test5.txt
+2016-12-17 20:40:19,805 INFO [{}] Test3.txt
+2016-12-17 20:40:19,805 ERROR [{}] Обработка ресурса прервана Test4.txt
+2016-12-17 20:40:19,805 ERROR [{}] Обработка ресурса прервана Test3.txt
+2016-12-17 20:40:19,805 INFO [{}] Test2.txt
+2016-12-17 20:40:19,805 ERROR [{}] Обработка ресурса прервана Test2.txt
+2016-12-17 20:40:23,543 INFO [{}] Test1.txt
+2016-12-17 20:40:23,543 INFO [{}] Test9.txt
+2016-12-17 20:40:23,543 INFO [{}] Test8.txt
+2016-12-17 20:40:23,543 INFO [{}] Test7.txt
+2016-12-17 20:40:23,543 INFO [{}] Test6.txt
+2016-12-17 20:40:23,543 INFO [{}] Test5.txt
+2016-12-17 20:40:23,543 INFO [{}] Test4.txt
+2016-12-17 20:40:23,543 INFO [{}] Test3.txt
+2016-12-17 20:40:23,543 INFO [{}] Test.txt
+2016-12-17 20:40:23,543 INFO [{}] Test2.txt
+2016-12-17 20:40:23,576 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 20:40:23,579 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 20:40:23,581 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:40:23,578 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 20:40:23,582 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 20:40:23,584 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 20:40:23,577 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 20:40:23,595 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 20:40:23,596 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 20:40:23,597 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 20:40:26,988 INFO [{}] Test1.txt
+2016-12-17 20:40:26,988 INFO [{}] Test6.txt
+2016-12-17 20:40:26,988 INFO [{}] Test4.txt
+2016-12-17 20:40:26,988 INFO [{}] Test5.txt
+2016-12-17 20:40:26,988 INFO [{}] Test.txt
+2016-12-17 20:40:26,988 INFO [{}] Test3.txt
+2016-12-17 20:40:26,988 INFO [{}] Test2.txt
+2016-12-17 20:40:27,003 INFO [{}] Test9.txt
+2016-12-17 20:40:27,003 INFO [{}] Test8.txt
+2016-12-17 20:40:27,003 INFO [{}] Test7.txt
+2016-12-17 20:40:27,003 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:40:27,003 ERROR [{}] Обработка ресурса прервана Test9.txt
+2016-12-17 20:40:27,003 ERROR [{}] Обработка ресурса прервана Test8.txt
+2016-12-17 20:40:27,003 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 20:40:27,003 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 20:40:27,003 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 20:40:27,003 ERROR [{}] Обработка ресурса прервана Test7.txt
+2016-12-17 20:40:27,019 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 20:40:27,035 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 20:40:27,035 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 20:40:30,574 INFO [{}] Test.txt
+2016-12-17 20:40:30,574 INFO [{}] Test1.txt
+2016-12-17 20:40:30,574 INFO [{}] Test2.txt
+2016-12-17 20:40:30,574 INFO [{}] Test3.txt
+2016-12-17 20:40:30,590 INFO [{}] Test8.txt
+2016-12-17 20:40:30,590 INFO [{}] Test9.txt
+2016-12-17 20:40:30,590 INFO [{}] Test7.txt
+2016-12-17 20:40:30,590 INFO [{}] Test6.txt
+2016-12-17 20:40:30,590 INFO [{}] Test5.txt
+2016-12-17 20:40:30,590 INFO [{}] Test4.txt
+2016-12-17 20:40:30,590 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 20:40:30,590 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 20:40:30,590 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 20:40:30,590 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 20:40:30,590 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 20:40:30,621 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 20:40:30,621 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 20:40:30,621 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 20:40:30,621 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 20:40:30,637 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:14:37,970 INFO [{}] Test1.txt
+2016-12-17 21:14:37,970 INFO [{}] Test3.txt
+2016-12-17 21:14:37,970 INFO [{}] Test2.txt
+2016-12-17 21:14:37,970 INFO [{}] Test.txt
+2016-12-17 21:14:38,001 INFO [{}] Test4.txt
+2016-12-17 21:14:38,049 INFO [{}] Test9.txt
+2016-12-17 21:14:38,050 INFO [{}] Test8.txt
+2016-12-17 21:14:38,051 INFO [{}] Test7.txt
+2016-12-17 21:14:38,052 INFO [{}] Test6.txt
+2016-12-17 21:14:38,052 INFO [{}] Test5.txt
+2016-12-17 21:14:38,055 ERROR [{}] Слово не на кириллице "boo". Test7.txt
+2016-12-17 21:14:38,055 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:14:38,055 ERROR [{}] Обработка ресурса прервана Test8.txt
+2016-12-17 21:14:38,055 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:14:38,055 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:14:38,055 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:14:38,086 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 21:14:38,086 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:14:38,086 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:14:38,086 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 21:14:38,102 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:15:33,018 INFO [{}] Test.txt
+2016-12-17 21:15:33,034 INFO [{}] Test1.txt
+2016-12-17 21:15:33,034 INFO [{}] Test2.txt
+2016-12-17 21:15:33,034 INFO [{}] Test3.txt
+2016-12-17 21:15:33,034 INFO [{}] Test4.txt
+2016-12-17 21:15:33,034 INFO [{}] Test5.txt
+2016-12-17 21:15:33,034 INFO [{}] Test6.txt
+2016-12-17 21:15:33,034 INFO [{}] Test7.txt
+2016-12-17 21:15:33,034 INFO [{}] Test8.txt
+2016-12-17 21:15:33,034 INFO [{}] Test9.txt
+2016-12-17 21:15:33,034 ERROR [{}] Слово не на кириллице "boo". Test7.txt
+2016-12-17 21:15:33,050 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 21:15:33,050 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:15:33,050 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:15:33,050 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:15:33,050 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:15:33,050 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:15:33,066 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:15:33,067 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 21:15:33,078 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 21:15:33,079 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:15:45,987 INFO [{}] Test.txt
+2016-12-17 21:15:45,987 INFO [{}] Test1.txt
+2016-12-17 21:15:46,003 INFO [{}] Test2.txt
+2016-12-17 21:15:46,003 INFO [{}] Test3.txt
+2016-12-17 21:15:46,003 INFO [{}] Test4.txt
+2016-12-17 21:15:46,003 INFO [{}] Test5.txt
+2016-12-17 21:15:46,003 INFO [{}] Test6.txt
+2016-12-17 21:15:46,003 INFO [{}] Test7.txt
+2016-12-17 21:15:46,003 INFO [{}] Test8.txt
+2016-12-17 21:15:46,003 INFO [{}] Test9.txt
+2016-12-17 21:15:46,003 ERROR [{}] Слово не на кириллице "boo". Test7.txt
+2016-12-17 21:15:46,019 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 21:15:46,019 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:15:46,019 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:15:46,019 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 21:15:46,041 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 21:15:46,041 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:15:46,041 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:15:46,019 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:15:46,019 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:15:46,019 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:15:50,736 INFO [{}] Test.txt
+2016-12-17 21:15:50,736 INFO [{}] Test1.txt
+2016-12-17 21:15:50,736 INFO [{}] Test2.txt
+2016-12-17 21:15:50,736 INFO [{}] Test3.txt
+2016-12-17 21:15:50,752 INFO [{}] Test9.txt
+2016-12-17 21:15:50,752 INFO [{}] Test8.txt
+2016-12-17 21:15:50,752 INFO [{}] Test7.txt
+2016-12-17 21:15:50,752 INFO [{}] Test6.txt
+2016-12-17 21:15:50,752 INFO [{}] Test5.txt
+2016-12-17 21:15:50,752 INFO [{}] Test4.txt
+2016-12-17 21:15:50,767 ERROR [{}] Слово не на кириллице "boo". Test7.txt
+2016-12-17 21:15:50,767 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:15:50,783 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 21:15:50,783 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 21:15:50,783 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:15:50,783 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:15:50,783 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:15:50,783 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:15:50,783 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 21:15:50,798 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:15:50,798 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:15:55,348 INFO [{}] Test2.txt
+2016-12-17 21:15:55,348 INFO [{}] Test7.txt
+2016-12-17 21:15:55,348 INFO [{}] Test6.txt
+2016-12-17 21:15:55,348 INFO [{}] Test5.txt
+2016-12-17 21:15:55,348 INFO [{}] Test4.txt
+2016-12-17 21:15:55,348 INFO [{}] Test.txt
+2016-12-17 21:15:55,348 INFO [{}] Test3.txt
+2016-12-17 21:15:55,348 INFO [{}] Test1.txt
+2016-12-17 21:15:55,363 INFO [{}] Test8.txt
+2016-12-17 21:15:55,363 ERROR [{}] Слово не на кириллице "boo". Test7.txt
+2016-12-17 21:15:55,363 INFO [{}] Test9.txt
+2016-12-17 21:15:55,363 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:15:55,363 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:15:55,379 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:15:55,379 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 21:15:55,379 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 21:15:55,379 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 21:15:55,379 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:15:55,379 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:15:55,395 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:15:55,395 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:15:58,777 INFO [{}] Test.txt
+2016-12-17 21:15:58,793 INFO [{}] Test8.txt
+2016-12-17 21:15:58,793 INFO [{}] Test7.txt
+2016-12-17 21:15:58,793 INFO [{}] Test6.txt
+2016-12-17 21:15:58,793 INFO [{}] Test5.txt
+2016-12-17 21:15:58,793 INFO [{}] Test4.txt
+2016-12-17 21:15:58,809 ERROR [{}] Слово не на кириллице "boo". Test7.txt
+2016-12-17 21:15:58,777 INFO [{}] Test3.txt
+2016-12-17 21:15:58,809 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:15:58,777 INFO [{}] Test2.txt
+2016-12-17 21:15:58,809 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:15:58,809 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 21:15:58,777 INFO [{}] Test1.txt
+2016-12-17 21:15:58,809 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:15:58,824 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:15:58,824 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:15:58,793 INFO [{}] Test9.txt
+2016-12-17 21:15:58,824 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 21:15:58,824 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:15:58,824 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:15:58,824 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 21:16:02,048 INFO [{}] Test.txt
+2016-12-17 21:16:02,080 INFO [{}] Test3.txt
+2016-12-17 21:16:02,064 INFO [{}] Test2.txt
+2016-12-17 21:16:02,064 INFO [{}] Test1.txt
+2016-12-17 21:16:02,080 INFO [{}] Test8.txt
+2016-12-17 21:16:02,095 INFO [{}] Test9.txt
+2016-12-17 21:16:02,095 INFO [{}] Test7.txt
+2016-12-17 21:16:02,095 ERROR [{}] Слово не на кириллице "boo". Test7.txt
+2016-12-17 21:16:02,095 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 21:16:02,095 INFO [{}] Test6.txt
+2016-12-17 21:16:02,095 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:16:02,095 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:16:02,095 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:16:02,095 INFO [{}] Test5.txt
+2016-12-17 21:16:02,095 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:16:02,095 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:16:02,095 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 21:16:02,095 INFO [{}] Test4.txt
+2016-12-17 21:16:02,095 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 21:16:02,116 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:16:02,122 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:16:05,777 INFO [{}] Test.txt
+2016-12-17 21:16:05,835 INFO [{}] Test9.txt
+2016-12-17 21:16:05,837 ERROR [{}] Слово не на кириллице "boo". Test.txt
+2016-12-17 21:16:05,840 INFO [{}] Test8.txt
+2016-12-17 21:16:05,841 INFO [{}] Test7.txt
+2016-12-17 21:16:05,841 INFO [{}] Test6.txt
+2016-12-17 21:16:05,841 INFO [{}] Test5.txt
+2016-12-17 21:16:05,844 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:16:05,844 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:16:05,844 INFO [{}] Test4.txt
+2016-12-17 21:16:05,845 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 21:16:05,845 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:16:05,846 INFO [{}] Test3.txt
+2016-12-17 21:16:05,846 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:16:05,847 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:16:05,847 INFO [{}] Test2.txt
+2016-12-17 21:16:05,856 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:16:05,858 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 21:16:05,858 INFO [{}] Test1.txt
+2016-12-17 21:16:05,858 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:16:05,859 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 21:16:23,548 INFO [{}] Test.txt
+2016-12-17 21:16:23,602 INFO [{}] Test9.txt
+2016-12-17 21:16:23,602 INFO [{}] Test8.txt
+2016-12-17 21:16:23,602 ERROR [{}] Слово не на кириллице "boo". Test.txt
+2016-12-17 21:16:23,602 INFO [{}] Test7.txt
+2016-12-17 21:16:23,602 INFO [{}] Test6.txt
+2016-12-17 21:16:23,602 INFO [{}] Test5.txt
+2016-12-17 21:16:23,602 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 21:16:23,617 INFO [{}] Test4.txt
+2016-12-17 21:16:23,617 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 21:16:23,617 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:16:23,617 INFO [{}] Test3.txt
+2016-12-17 21:16:23,617 INFO [{}] Test2.txt
+2016-12-17 21:16:23,617 INFO [{}] Test1.txt
+2016-12-17 21:16:23,617 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 21:16:23,617 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:16:23,617 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:16:23,617 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:16:23,617 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:16:23,617 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:16:23,617 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:16:27,346 INFO [{}] Test.txt
+2016-12-17 21:16:27,362 INFO [{}] Test9.txt
+2016-12-17 21:16:27,362 INFO [{}] Test8.txt
+2016-12-17 21:16:27,378 INFO [{}] Test7.txt
+2016-12-17 21:16:27,378 ERROR [{}] Слово не на кириллице "II". Test8.txt
+2016-12-17 21:16:27,378 INFO [{}] Test6.txt
+2016-12-17 21:16:27,378 INFO [{}] Test5.txt
+2016-12-17 21:16:27,378 INFO [{}] Test4.txt
+2016-12-17 21:16:27,378 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:16:27,378 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 21:16:27,378 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:16:27,378 INFO [{}] Test3.txt
+2016-12-17 21:16:27,378 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 21:16:27,378 INFO [{}] Test2.txt
+2016-12-17 21:16:27,378 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:16:27,378 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:16:27,378 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:16:27,378 INFO [{}] Test1.txt
+2016-12-17 21:16:27,378 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:16:27,378 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:16:27,378 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 21:16:44,026 INFO [{}] Test.txt
+2016-12-17 21:16:44,043 INFO [{}] Test9.txt
+2016-12-17 21:16:44,045 INFO [{}] Test8.txt
+2016-12-17 21:16:44,051 INFO [{}] Test7.txt
+2016-12-17 21:16:44,053 INFO [{}] Test6.txt
+2016-12-17 21:16:44,053 INFO [{}] Test5.txt
+2016-12-17 21:16:44,057 INFO [{}] Test4.txt
+2016-12-17 21:16:44,063 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 21:16:44,069 ERROR [{}] Повтор слова "вы". Test4.txt
+2016-12-17 21:16:44,073 INFO [{}] Test3.txt
+2016-12-17 21:16:44,073 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:16:44,074 ERROR [{}] Слово не на кириллице "II". Test8.txt
+2016-12-17 21:16:44,080 INFO [{}] Test2.txt
+2016-12-17 21:16:44,074 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 21:16:44,075 ERROR [{}] Слово не на кириллице "boo". Test7.txt
+2016-12-17 21:16:44,081 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:16:44,081 INFO [{}] Test1.txt
+2016-12-17 21:16:44,081 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:16:44,080 ERROR [{}] Слово не на кириллице "boo". Test.txt
+2016-12-17 21:16:44,082 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:16:44,080 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:16:44,079 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:16:44,079 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:18:24,527 INFO [{}] Test3.txt
+2016-12-17 21:18:24,531 INFO [{}] Test5.txt
+2016-12-17 21:18:24,530 INFO [{}] Test4.txt
+2016-12-17 21:18:24,530 INFO [{}] Test.txt
+2016-12-17 21:18:24,530 INFO [{}] Test2.txt
+2016-12-17 21:18:24,530 INFO [{}] Test1.txt
+2016-12-17 21:18:24,541 INFO [{}] Test6.txt
+2016-12-17 21:18:24,541 INFO [{}] Test7.txt
+2016-12-17 21:18:24,545 ERROR [{}] Слово не на кириллице "boo". Test7.txt
+2016-12-17 21:18:24,550 INFO [{}] Test9.txt
+2016-12-17 21:18:24,550 INFO [{}] Test8.txt
+2016-12-17 21:18:24,559 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:18:24,564 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:18:24,565 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:18:24,565 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:18:24,585 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 21:18:24,582 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:18:24,586 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:18:24,581 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:18:24,587 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 21:18:24,587 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 21:18:27,531 INFO [{}] Test.txt
+2016-12-17 21:18:27,546 INFO [{}] Test1.txt
+2016-12-17 21:18:27,546 INFO [{}] Test2.txt
+2016-12-17 21:18:27,546 INFO [{}] Test3.txt
+2016-12-17 21:18:27,546 INFO [{}] Test4.txt
+2016-12-17 21:18:27,546 INFO [{}] Test5.txt
+2016-12-17 21:18:27,546 INFO [{}] Test6.txt
+2016-12-17 21:18:27,563 INFO [{}] Test8.txt
+2016-12-17 21:18:27,563 INFO [{}] Test9.txt
+2016-12-17 21:18:27,564 INFO [{}] Test7.txt
+2016-12-17 21:18:27,567 ERROR [{}] Слово не на кириллице "boo". Test.txt
+2016-12-17 21:18:27,568 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 21:18:27,568 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 21:18:27,568 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 21:18:27,568 ERROR [{}] Обработка ресурса прервана: Test5.txt
+2016-12-17 21:18:27,568 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 21:18:27,568 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 21:18:27,568 ERROR [{}] Обработка ресурса прервана: Test9.txt
+2016-12-17 21:18:27,568 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 21:18:27,568 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 21:18:27,584 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 21:54:12,416 INFO [{}] before class
+2016-12-17 21:55:35,746 INFO [{}] before class
+2016-12-17 21:55:41,217 INFO [{}] before class
+2016-12-17 21:55:41,264 INFO [{}] before class
+2016-12-17 21:55:41,264 INFO [{}] before class
+2016-12-17 21:55:41,283 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 21:55:41,618 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit8946046567937744255\myfile.txt
+2016-12-17 21:55:41,634 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit5667720426477086425\myfile.txt
+2016-12-17 21:55:41,702 INFO [{}] 
+2016-12-17 21:55:41,709 INFO [{}] Start tests for class "Monitor"
+2016-12-17 21:55:41,723 INFO [{}] Start tests for class "UThreadTest"
+2016-12-17 21:55:41,771 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit5446790409318476928\resourceWithNoRus.txt
+2016-12-17 21:55:41,773 ERROR [{}] Слово не на кириллице "Stop". C:\Users\raxis\AppData\Local\Temp\junit5446790409318476928\resourceWithNoRus.txt
+2016-12-17 21:55:41,775 ERROR [{}] Обработка ресурса прервана: C:\Users\raxis\AppData\Local\Temp\junit5446790409318476928\resourceWithNoRus.txt
+2016-12-17 21:55:41,809 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit3386989096454528744\resourceWithRepWords.txt
+2016-12-17 21:55:41,810 ERROR [{}] Повтор слова "медведи". C:\Users\raxis\AppData\Local\Temp\junit3386989096454528744\resourceWithRepWords.txt
+2016-12-17 21:55:41,842 INFO [{}] C:\Users\raxis\AppData\Local\Temp\junit6990719227459223193\resource.txt
+2016-12-17 21:55:41,843 INFO [{}] main: Ресурс обработан удачно C:\Users\raxis\AppData\Local\Temp\junit6990719227459223193\resource.txt
+2016-12-17 21:55:41,856 INFO [{}] Start tests for class "FileForCheck"
+2016-12-17 22:14:16,596 INFO [{}] uthread786681289: Ресурс обработан удачно Test9.txt
+2016-12-17 22:14:16,612 ERROR [{}] Слово не на кириллице "n". Test1.txt
+2016-12-17 22:14:16,612 ERROR [{}] Обработка ресурса прервана: Test1.txt
+2016-12-17 22:14:16,612 ERROR [{}] Обработка ресурса прервана: Test3.txt
+2016-12-17 22:14:16,612 ERROR [{}] Обработка ресурса прервана: Test7.txt
+2016-12-17 22:14:16,612 ERROR [{}] Обработка ресурса прервана: Test6.txt
+2016-12-17 22:14:16,612 ERROR [{}] Обработка ресурса прервана: Test8.txt
+2016-12-17 22:14:16,612 ERROR [{}] Обработка ресурса прервана: Test2.txt
+2016-12-17 22:14:16,612 ERROR [{}] Обработка ресурса прервана: Test4.txt
+2016-12-17 22:14:16,612 ERROR [{}] Обработка ресурса прервана: Test.txt
+2016-12-17 22:14:16,627 ERROR [{}] Обработка ресурса прервана: Test5.txt

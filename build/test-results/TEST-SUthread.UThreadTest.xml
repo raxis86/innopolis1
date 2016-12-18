@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SUthread.UThreadTest" tests="3" skipped="0" failures="3" errors="0" timestamp="2016-12-16T18:37:46" hostname="Raxis-pc" time="0.15">
+<testsuite name="SUthread.UThreadTest" tests="3" skipped="0" failures="3" errors="0" timestamp="2016-12-16T18:50:41" hostname="Raxis-pc" time="0.103">
   <properties/>
-  <testcase name="run_with_no_rus_sources" classname="SUthread.UThreadTest" time="0.033">
+  <testcase name="run_with_no_rus_sources" classname="SUthread.UThreadTest" time="0.032">
     <failure message="java.lang.AssertionError: Р РµР·СѓР»СЊС‚Р°С‚ РЅРµ РєРѕСЂСЂРµРєС‚РµРЅ" type="java.lang.AssertionError">java.lang.AssertionError: Р РµР·СѓР»СЊС‚Р°С‚ РЅРµ РєРѕСЂСЂРµРєС‚РµРЅ
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.assertTrue(Assert.java:41)
@@ -55,7 +55,7 @@
 	at java.lang.Thread.run(Thread.java:745)
 </failure>
   </testcase>
-  <testcase name="run_with_rep_words" classname="SUthread.UThreadTest" time="0.026">
+  <testcase name="run_with_rep_words" classname="SUthread.UThreadTest" time="0.028">
     <failure message="java.lang.AssertionError: Р РµР·СѓР»СЊС‚Р°С‚ РЅРµ РєРѕСЂСЂРµРєС‚РµРЅ" type="java.lang.AssertionError">java.lang.AssertionError: Р РµР·СѓР»СЊС‚Р°С‚ РЅРµ РєРѕСЂСЂРµРєС‚РµРЅ
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.assertTrue(Assert.java:41)
@@ -109,7 +109,7 @@
 	at java.lang.Thread.run(Thread.java:745)
 </failure>
   </testcase>
-  <testcase name="run" classname="SUthread.UThreadTest" time="0.09">
+  <testcase name="run" classname="SUthread.UThreadTest" time="0.023">
     <failure message="java.lang.AssertionError: Р РµР·СѓР»СЊС‚Р°С‚ РЅРµ РєРѕСЂСЂРµРєС‚РµРЅ" type="java.lang.AssertionError">java.lang.AssertionError: Р РµР·СѓР»СЊС‚Р°С‚ РЅРµ РєРѕСЂСЂРµРєС‚РµРЅ
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.assertTrue(Assert.java:41)

@@ -39,7 +39,6 @@ public class FileForCheckTest {
     @Before
     public void before() throws Exception {
         file = folder.newFile("myfile.txt");
-        this.fileForCheck = new FileForCheck();
         this.bufferedWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file),"Cp1251"));
         bufferedWriter.write(testText);
         bufferedWriter.close();
@@ -53,7 +52,8 @@ public class FileForCheckTest {
      */
     @Test
     public void open() throws Exception {
-        assertEquals(testText,fileForCheck.open(file.getPath()).readLine());
+        fileForCheck = new FileForCheck(file.getPath());
+        assertEquals(testText,fileForCheck.open().readLine());
     }
 
     /**
@@ -63,7 +63,8 @@ public class FileForCheckTest {
      */
     @Test(expected = FileNotFoundException.class)
     public void open_with_throw_FileNotFoundException() throws Exception{
-        fileForCheck.open("");
+        fileForCheck = new FileForCheck("");
+        fileForCheck.open();
     }
 
     /**
@@ -72,7 +73,8 @@ public class FileForCheckTest {
      */
     @Test
     public void close() throws Exception {
-        BufferedReader bufferedReader=fileForCheck.open(file.getPath());
+        fileForCheck = new FileForCheck(file.getPath());
+        BufferedReader bufferedReader=fileForCheck.open();
         String s="";
         fileForCheck.close();
         try {

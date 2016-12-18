@@ -12,53 +12,39 @@ import java.util.Map;
 
 /**
  * Created by raxis on 10.12.2016.
+ * Параметры, переданные в метод main - файловые ресурсы
+ * Создается список потоков, все потоки запускаются
+ * Результат обработки выводится в консоль
  */
 public class Main {
     private static final Logger logger = LoggerFactory.getLogger(Main.class);
+
     public static void main(String[] args) {
 
-        //logger.warn("some");
-
-        /*List<String> stringList = new ArrayList<>();
-        stringList.add("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test.txt");
-        stringList.add("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test1.txt");
-        stringList.add("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test2.txt");
-        stringList.add("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test3.txt");
-        stringList.add("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test4.txt");
-        stringList.add("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test5.txt");
-        stringList.add("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test6.txt");
-        stringList.add("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test7.txt");
-        stringList.add("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test8.txt");
-
-        Monitor monitor = new Monitor(stringList);*/
-
-
         List<Thread> threadList = new ArrayList<>();
+        ThreadGroup threadGroup = new ThreadGroup("Group");
 
-        /*for(int i=0;i<2000;i++){
-            threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test9.txt"));
+        /*for(int i=1;i<10;i++){
+            threadList.add(new UThread(threadGroup, new FileForCheck(String.format("Test%d.txt",i))));
         }*/
 
-        threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test.txt"));
-        threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test1.txt"));
-        threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test2.txt"));
-        threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test3.txt"));
-        threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test4.txt"));
-        threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test5.txt"));
-        threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test6.txt"));
-        threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test7.txt"));
-        threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test8.txt"));
-        threadList.add(new UThread("C:\\Work\\Java\\Innopolis\\SeekUniq\\Test9.txt"));
+        for(int i=0;i<args.length;i++){
+            threadList.add(new UThread(threadGroup, new FileForCheck(args[i])));
+        }
 
-        Monitor monitor = new Monitor(threadList);
 
-        monitor.start();
+        for(Thread t:threadList){
+            t.start();
+        }
 
-        while (Monitor.isAliveThreads());
+        while (threadGroup.activeCount()>0){
+            //ждем, пока завершатся все потоки
+        }
 
         for(String s:Monitor.getAlarmMessages()){
             System.out.println(s);
         }
+
         System.out.println("\nИнформационно:");
 
         int i=0;
